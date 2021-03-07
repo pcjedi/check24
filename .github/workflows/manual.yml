@@ -1,4 +1,4 @@
-name: Manual workflow
+name: check24 pull
 
 on:
   schedule: 
