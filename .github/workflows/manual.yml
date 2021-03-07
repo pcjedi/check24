@@ -1,0 +1,10 @@
+name: Manual workflow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+    - run: pwd
