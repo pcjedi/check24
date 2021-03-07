@@ -3,7 +3,7 @@ name: Rows changed
 on:
   push:
     paths:
-    - 'rows.json'
+    - "rows.json"
     
 jobs:
   job1:
