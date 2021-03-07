@@ -5,6 +5,7 @@ on:
     paths:
     - '.github/workflows/on-change.yaml'
     - 'rows.json'
+    - 'json2csv.py'
 
 jobs:
   job1:
