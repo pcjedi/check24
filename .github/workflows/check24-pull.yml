@@ -2,7 +2,7 @@ name: check24 pull
 
 on:
   schedule: 
-    - cron: "* * * * *"
+    - cron:  '* * * * *'
 
 jobs:
   job1:
