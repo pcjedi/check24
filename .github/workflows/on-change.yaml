@@ -1,0 +1,15 @@
+name: Rows changed
+
+on:
+  push:
+    paths:
+    - 'rows.json'
+    
+jobs:
+  job1:
+    name: Job 1
+    runs-on: ubuntu-latest
+    steps:
+    - name: Print a greeting
+      run: |
+        pwd
