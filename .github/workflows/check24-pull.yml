@@ -6,7 +6,7 @@ on:
     paths:
     - ".github/workflows/check24-pull.yml"
   schedule: 
-    - cron:  '*/5 * * * *'
+    - cron:  '* * * * *'
 
 jobs:
   job1:
