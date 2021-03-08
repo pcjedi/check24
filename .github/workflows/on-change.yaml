@@ -8,6 +8,21 @@ on:
     - 'json2csv.py'
 
 jobs:
+  adjusted:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        token: ${{secrets.PAT}}
+    - run: pip install pandas
+    - run: python json2csv.py --check24adjusted
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        git commit -m "update rows-adjusted.csv" || exit 0
+        git push
   all:
     runs-on: ubuntu-20.04
     steps:
@@ -15,7 +30,7 @@ jobs:
       with:
         token: ${{secrets.PAT}}
     - run: pip install pandas
-    - run: python json2csv.py
+    - run: python json2csv.py --check24all
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
