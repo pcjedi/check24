@@ -136,7 +136,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1145,HIGH,HIGH 3 + 2 LTE 50,Telekom,0,5000,50000,0,0,True,0,True,24,month
 1145,MegaSim,Allnet 9 GB LTE,Telefónica,0,9000,21600,0,0,True,0,True,24,month
 1149,mobilcom debitel,green LTE 6 GB,Vodafone,0,6000,50000,0,0,True,19,False,24,month
-1157,blau,Allnet XL Flex,o2,0,7000,21600,0,0,True,0,True,1,month
 1157,klarmobil,Daten Flat 8 GB LTE,Vodafone,0,8000,21600,0,0,False,9,False,24,month
 1162,gmx.de,All-Net Flat LTE 8 GB,Telefónica,0,8000,21600,0,0,True,0,True,24,month
 1166,o2,my Data S,o2,0,1000,225000,0,0,False,0,False,24,month
@@ -166,6 +165,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1318,ALDI TALK,Paket M,Telefónica,0,5000,21600,0,0,True,0,True,28,day
 1353,Vodafone,DataGo M,Vodafone,0,12000,500000,0,0,False,19,False,24,month
 1357,Vodafone,Red XS,Vodafone,0,4000,500000,0,0,True,0,True,24,month
+1357,blau,Allnet XL Flex,o2,0,9000,21600,0,0,True,0,True,1,month
 1369,blau,Allnet M,o2,0,6000,25000,0,0,True,0,True,28,day
 1378,BILDconnect,Data 3000 LTE,Telefónica,0,3000,50000,0,15,False,15,False,24,month
 1395,HIGH,HIGH 10 LTE 25,Telekom,0,10000,25000,0,0,True,0,True,24,month
