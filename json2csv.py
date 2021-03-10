@@ -43,9 +43,10 @@ if args.check24adjusted:
       'pricelayer.provider.name': {"web.de": "gmx.de"}
     }
   ).sort_values(
-    by=[
+    by = [
       "pricelayer.prices.effective.amount", 
-      "pricelayer.provider.name"
+      "pricelayer.provider.name",  
+      "tariff.names.default",
     ]
   ).to_csv(
     path_or_buf="rows-adjusted.csv", 
