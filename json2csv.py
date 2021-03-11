@@ -38,9 +38,14 @@ if args.check24all:
     print(c)
 
 if args.check24adjusted:
-  df[core].replace(
+  df_core = df[core]
+  df_core.loc[df_core["tariff.names.default"]=="WhatsAll 4000", "tariff.internet.traffic.value"] = 4000
+  df_core.replace(
     to_replace = {
-      'pricelayer.provider.name': {"web.de": "gmx.de"}
+      'pricelayer.provider.name': {
+        "web.de": "gmx.de",
+        "Penny Mobil": "ja! mobil"
+      }
     }
   ).sort_values(
     by = [
