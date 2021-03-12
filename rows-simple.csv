@@ -72,13 +72,13 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 764,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,0,True,0,True,28,day
 764,NettoKOM,Smart S,Telefónica,24,3000,21600,0,0,True,0,True,28,day
 764,Netzclub,Hero Special,Telefónica,0,2500,21600,0,9,False,9,False,28,day
+770,blau,Allnet L + 4 GB,o2,0,7000,21600,0,0,True,0,True,24,month
 770,yourfone,LTE 1 GB,Telefónica,0,1000,50000,0,0,True,9,False,24,month
 771,winSIM,LTE All 3 GB + 3 GB,Telefónica,0,6000,50000,0,0,True,0,True,24,month
 776,ALDI TALK,Paket S,Telefónica,0,3000,21600,0,0,True,0,True,28,day
 778,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,0,True,0,True,1,month
 779,web.de,All-Net LTE 4 GB,Telefónica,0,4000,21600,0,0,True,0,True,24,month
 782,freenet Mobile,Smartphone Flat 2 GB LTE,Vodafone,0,2000,21600,0,9,False,9,False,1,month
-791,blau,Allnet L + 3 GB,o2,0,6000,21600,0,0,True,0,True,24,month
 799,callmobile,cleverSMART 1500,Telekom,0,1500,25000,0,9,False,9,False,24,month
 807,Media Markt,Super Select XS,Telefónica,0,2000,50000,0,29,False,14,False,1,month
 824,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,50000,0,0,True,0,True,24,month
@@ -91,7 +91,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 871,BILDconnect,Flat LTE L,Telefónica,0,5000,50000,0,0,True,0,True,24,month
 882,Crash,Allnet Flat 5 GB LTE 25,Telekom,0,5000,25000,0,0,True,0,True,24,month
 890,wilhelm.tel.Mobil,Mobil Smart LTE,Telefónica,0,1500,21000,0,9,False,9,False,1,month
-891,blau,Allnet XL + 2 GB,o2,0,7000,21600,0,0,True,0,True,24,month
 895,HIGH,HIGH 3 + 2 LTE 25,Telekom,0,5000,25000,0,0,True,0,True,24,month
 895,WOBCOM,Smart,Telefónica,0,2000,21600,0,10,False,10,False,12,month
 895,OTELO,Allnet-Flat Classic,Vodafone,0,10000,21600,0,0,True,0,True,24,month
@@ -106,7 +105,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 954,goood,LTE 3000 + 2 GB,Telefónica,0,5000,50000,0,0,True,0,True,24,month
 961,MegaSim,Allnet 10 GB LTE,Telefónica,0,10000,50000,0,0,True,0,True,24,month
 961,WhatsApp SIM,WhatsAll 4000,Telefónica,0,10,21600,0,9,False,9,False,28,day
-970,web.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,0,True,0,True,24,month
+970,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,0,True,0,True,24,month
 971,handyvertrag.de,LTE All 5 GB + 3 GB,Telefónica,0,8000,50000,0,0,True,0,True,24,month
 977,o2,my Prepaid S,o2,0,3500,25000,0,0,True,0,True,28,day
 977,FONIC,"Surf-Flat 3,5 GB",Telefónica,0,3500,21600,0,9,False,9,False,28,day
@@ -136,8 +135,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1099,TELE2,LTE Allnet-Flat M,Vodafone,0,5000,21600,0,0,True,0,True,24,month
 1099,goood,Allnet-Flat Go,Vodafone,0,3000,50000,0,0,True,0,True,24,month
 1104,congstar,Allnet Flat S Flex,Telekom,0,2000,25000,0,0,True,0,True,1,month
-1124,Media Markt,Super Select S,Telefónica,0,3000,50000,0,0,True,0,True,24,month
 1124,Saturn,Super Select S,Telefónica,0,3000,50000,0,0,True,0,True,24,month
+1124,Media Markt,Super Select S,Telefónica,0,3000,50000,0,0,True,0,True,24,month
 1127,Tchibo,Data S,Telefónica,0,3500,21600,0,9,False,9,False,28,day
 1136,mobilcom debitel,green Data L,Telekom,0,5000,150000,0,0,False,19,False,24,month
 1145,HIGH,HIGH 3 + 2 LTE 50,Telekom,0,5000,50000,0,0,True,0,True,24,month
@@ -226,8 +225,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1695,mobilcom debitel,green Data XL,Telekom,0,15000,150000,0,0,False,19,False,24,month
 1699,1&1,Daten-Flat LTE M,Telefónica,0,10000,225000,0,20,False,20,False,1,month
 1741,freenet Mobile,Allnet Flat 15 GB LTE,Vodafone,0,15000,50000,0,0,True,0,True,12,month
-1749,OTELO,Max Young,Vodafone,0,24000,50000,27,0,True,0,True,24,month
 1749,OTELO,Allnet-Flat Max,Vodafone,0,20000,50000,0,0,True,0,True,24,month
+1749,OTELO,Max Young,Vodafone,0,24000,50000,27,0,True,0,True,24,month
 1749,1&1,Daten-Flat LTE L,Telefónica,0,15000,225000,0,20,False,20,False,24,month
 1783,FONIC,Smart 5 GB,Telefónica,0,5000,21600,0,0,True,0,True,28,day
 1790,1&1,All-Net-Flat LTE S,Telefónica,0,3000,50000,0,0,True,0,True,24,month
