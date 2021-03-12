@@ -45,6 +45,9 @@ if args.check24adjusted:
       'pricelayer.provider.name': {
         "web.de": "gmx.de",
         "Penny Mobil": "ja! mobil"
+      },
+      'tariff.network.name': {
+        "o2": "Telefónica"
       }
     }
   ).sort_values(
