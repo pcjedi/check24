@@ -131,7 +131,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1081,FCB Mobil,Prepaid,Telekom,0,1500,300000,0,9,False,9,False,28,day
 1082,OTELO,Allnet-Flat Go,Vodafone,0,5000,50000,0,0,True,0,True,24,month
 1082,OTELO,Go Young,Vodafone,0,6000,50000,27,0,True,0,True,24,month
-1091,blau,Allnet XL + 4 GB,Telefónica,0,9000,21600,0,0,True,0,True,24,month
+1087,blau,Allnet Plus + 2 GB,Telefónica,0,10000,21600,0,0,True,0,True,24,month
 1099,TELE2,LTE Allnet-Flat M,Vodafone,0,5000,21600,0,0,True,0,True,24,month
 1099,goood,Allnet-Flat Go,Vodafone,0,3000,50000,0,0,True,0,True,24,month
 1104,congstar,Allnet Flat S Flex,Telekom,0,2000,25000,0,0,True,0,True,1,month
