@@ -62,7 +62,7 @@ if args.check24adjusted:
     index=False
   )
   
-  df_core = df_core[df_core["tariff.internet.pricePerUnit.price.amount"]==0]
+  # df_core = df_core[df_core["tariff.internet.pricePerUnit.price.amount"]==0]
   df_core["24m"] = False
   df_core.loc[
     (df_core["tariff.contract.periods.contract.value"] == 24) & 
