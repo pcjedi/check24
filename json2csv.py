@@ -40,7 +40,7 @@ if args.check24all:
 if args.check24adjusted:
   df_core = df[core]
   df_core.loc[df_core["tariff.names.default"]=="WhatsAll 4000", "tariff.internet.traffic.value"] = 4000
-  df_core.replace(
+  df_core = df_core.replace(
     to_replace = {
       'pricelayer.provider.name': {
         "web.de": "gmx.de",
@@ -56,7 +56,27 @@ if args.check24adjusted:
       "pricelayer.provider.name",  
       "tariff.names.default",
     ]
-  ).to_csv(
+  )
+  df_core.to_csv(
     path_or_buf="rows-adjusted.csv", 
+    index=False
+  )
+  
+  df_core = df_core[df_core["tariff.internet.pricePerUnit.price.amount"]==0]
+  df_core["24m"] = False
+  df_core.loc[
+    (df_core["tariff.contract.periods.contract.value"] == 24) & 
+    (df_core["tariff.contract.periods.contract.unit"] == "month"), 
+    "24m"
+  ] = True
+  df_core.groupby([
+        "tariff.internet.traffic.value", 
+        "tariff.network.name", 
+        "tariff.ageCheck", 
+        "24m"
+  ])[
+      "pricelayer.prices.effective.amount"
+  ].min().reset_index().to_csv(
+    path_or_buf="grouped-minimum.csv", 
     index=False
   )
