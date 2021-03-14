@@ -1,0 +1,12 @@
+name: Grouped Minimum Changed
+
+on:
+  push:
+    paths:
+    - 'grouped-minimum.csv'
+
+jobs:
+  tweet:
+    runs-on: ubuntu-20.04
+    steps:
+    - run: pws
