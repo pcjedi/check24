@@ -1,0 +1,24 @@
+name: Grouped Minimum Changed
+
+on:
+  push:
+    paths:
+    - 'grouped-minimum.csv'
+
+jobs:
+  tweet:
+    runs-on: ubuntu-20.04
+    steps:
+    - name: Twitter Tweet Action
+      uses: devigned/go-twitter-action@v1.0.2
+      with:
+        # message you want to tweet
+        message: https://github.com/pcjedi/check24/commits/main/grouped-minimum.csv
+        # api key for Twitter api
+        apiKey: ${{screts.TWITTER_API_KEY}}
+        # api key secret for Twitter api
+        apiKeySecret: ${{screts.TWITTER_API_KEY_SECRET}}
+        # access token for Twitter api
+        accessToken: ${{screts.TWITTER_ACCESS_TOKEN}}
+        # access token secret for Twitter api
+        accessTokenSecret: ${{screts.TWITTER_ACCESS_TOKEN_SECRET}}
