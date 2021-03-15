@@ -13,7 +13,7 @@ jobs:
       uses: devigned/go-twitter-action@v1.0.2
       with:
         # message you want to tweet
-        message: https://github.com/pcjedi/check24/commits/main/grouped-minimum.csv
+        message: "https://github.com/pcjedi/check24/commits/main/grouped-minimum.csv #check24 #handytarif"
         # api key for Twitter api
         apiKey: ${{secrets.TWITTER_API_KEY}}
         # api key secret for Twitter api
