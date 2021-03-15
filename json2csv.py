@@ -51,11 +51,7 @@ if args.check24adjusted:
       }
     }
   ).sort_values(
-    by = [
-      "pricelayer.prices.effective.amount", 
-      "pricelayer.provider.name",  
-      "tariff.names.default",
-    ]
+    by = core
   )
   df_core.to_csv(
     path_or_buf="rows-adjusted.csv", 
