@@ -57,12 +57,12 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 621,maXXim,LTE 1000,Telefónica,0,1000,21600,0,0,True,0,True,24,month
 626,FYVE,Smart XS,Vodafone,0,1000,21600,0,9,False,9,False,1,month
 655,Lidl Connect,Data M,Vodafone,0,3000,25000,0,9,False,9,False,28,day
-661,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,0,True,0,True,24,month
 671,galaxyexperte.de,LTE All 1 GB,Telefónica,0,1000,50000,0,0,True,0,True,24,month
 678,BILDconnect,Data 1000 LTE,Telefónica,0,1000,50000,0,15,False,15,False,24,month
 699,DOKOM 21,Mobil plus,Telefónica,0,300,7200,0,15,False,15,False,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 716,klarmobil,"Smartphone Flat 1,5 GB LTE 25",Telekom,0,1500,25000,0,9,False,9,False,24,month
+724,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,0,True,0,True,24,month
 745,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,0,True,0,True,24,month
 749,mobilcom debitel,Smart Surf,Telefónica,0,1000,21600,0,29,False,19,False,24,month
 749,mobilcom debitel,green LTE 3 GB,Vodafone,0,3000,21600,0,0,True,19,False,24,month
@@ -173,8 +173,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1353,Vodafone,DataGo M,Vodafone,0,12000,500000,0,0,False,19,False,24,month
 1357,Vodafone,Red XS,Vodafone,0,4000,500000,0,0,True,0,True,24,month
 1357,blau,Allnet XL Flex,Telefónica,0,9000,21600,0,0,True,0,True,1,month
-1357,ja! mobil,Prepaid Smart Plus,Telekom,0,5000,25000,0,0,True,0,True,28,day
 1357,ja! mobil,Prepaid Smart Plus,Telekom,0,4000,25000,0,0,True,0,True,28,day
+1357,ja! mobil,Prepaid Smart Plus,Telekom,0,5000,25000,0,0,True,0,True,28,day
 1369,blau,Allnet M,Telefónica,0,6000,25000,0,0,True,0,True,28,day
 1378,BILDconnect,Data 3000 LTE,Telefónica,0,3000,50000,0,15,False,15,False,24,month
 1395,HIGH,HIGH 10 LTE 25,Telekom,0,10000,25000,0,0,True,0,True,24,month
