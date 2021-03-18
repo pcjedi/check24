@@ -40,7 +40,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 471,simplytel,LTE 1000,Telefónica,0,1000,50000,0,0,True,0,True,24,month
 471,winSIM,LTE All 1 GB + 1 GB,Telefónica,0,2000,21600,0,0,True,0,True,24,month
 482,freenet Mobile,Smartphone Flat 750 MB LTE 25,Telekom,0,750,25000,0,9,False,9,False,1,month
-491,blau,Allnet L,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 496,OTELO,Smart S,Vodafone,0,450,21600,0,9,False,9,False,28,day
 499,callmobile,cleverSMART 750,Telekom,0,750,25000,0,9,False,9,False,24,month
 511,ja! mobil,Prepaid Basic,Telekom,0,1000,25000,0,9,False,9,False,28,day
