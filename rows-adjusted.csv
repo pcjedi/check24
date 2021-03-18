@@ -85,12 +85,12 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 826,NORMA Connect,Smart S,Telekom,0,3000,25000,0,0,True,0,True,28,day
 826,blau,Allnet S,Telefónica,0,3000,25000,0,0,True,0,True,28,day
 826,ja! mobil,Prepaid Smart,Telekom,0,3000,25000,0,0,True,0,True,28,day
+841,Crash,Allnet Flat 5 GB LTE 25,Telekom,0,5000,25000,0,0,True,0,True,24,month
 841,congstar,Daten S,Telekom,0,1500,25000,0,0,False,9,False,24,month
 854,HIGH,HIGH 3 LTE 25,Telekom,0,3000,25000,0,0,True,0,True,24,month
 854,goood,LTE 3000,Telefónica,0,3000,50000,0,0,True,0,True,24,month
 871,sim.de,LTE All 8 GB + 1 GB,Telefónica,0,9000,50000,0,0,True,0,True,24,month
 871,winSIM,LTE All 5 GB + 3 GB,Telefónica,0,8000,50000,0,0,True,0,True,24,month
-882,Crash,Allnet Flat 5 GB LTE 25,Telekom,0,5000,25000,0,0,True,0,True,24,month
 890,wilhelm.tel.Mobil,Mobil Smart LTE,Telefónica,0,1500,21000,0,9,False,9,False,1,month
 891,blau,Allnet XL + 3 GB,Telefónica,0,8000,21600,0,0,True,0,True,24,month
 895,HIGH,HIGH 3 + 2 LTE 25,Telekom,0,5000,25000,0,0,True,0,True,24,month
