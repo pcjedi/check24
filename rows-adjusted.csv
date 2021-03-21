@@ -48,7 +48,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 541,Crash,Smartphone Flat 2 GB LTE,Vodafone,0,2000,21600,0,9,False,9,False,24,month
 557,klarmobil,Daten Flat 3 GB LTE,Vodafone,0,3000,21600,0,0,False,9,False,24,month
 571,PremiumSIM,LTE S,Telefónica,0,3000,50000,0,0,True,0,True,24,month
-571,sim.de,LTE All 4 GB + 1 GB,Telefónica,0,5000,50000,0,0,True,0,True,24,month
 571,sim.de,LTE All 500 MB,Telefónica,0,500,50000,0,0,True,0,True,24,month
 582,freenet Mobile,Daten Flat 3 GB LTE,Vodafone,0,3000,21600,0,0,False,9,False,1,month
 582,freenet Mobile,Smartphone Flat 1 GB LTE,Vodafone,0,1000,21600,0,9,False,9,False,1,month
@@ -75,6 +74,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 764,Netzclub,Hero Special,Telefónica,0,2500,21600,0,9,False,9,False,28,day
 770,yourfone,LTE 1 GB,Telefónica,0,1000,50000,0,0,True,9,False,24,month
 771,handyvertrag.de,LTE All 5 GB + 1 GB,Telefónica,0,6000,50000,0,0,True,0,True,24,month
+771,simplytel,LTE 3000 + 2 GB,Telefónica,0,5000,50000,0,0,True,0,True,24,month
 776,ALDI TALK,Paket S,Telefónica,0,3000,21600,0,0,True,0,True,28,day
 778,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,0,True,0,True,1,month
 782,freenet Mobile,Smartphone Flat 2 GB LTE,Vodafone,0,2000,21600,0,9,False,9,False,1,month
