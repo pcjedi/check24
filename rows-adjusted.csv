@@ -90,7 +90,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 841,congstar,Daten S,Telekom,0,1500,25000,0,0,False,9,False,24,month
 854,HIGH,HIGH 3 LTE 25,Telekom,0,3000,25000,0,0,True,0,True,24,month
 854,goood,LTE 3000,Telefónica,0,3000,50000,0,0,True,0,True,24,month
-871,sim.de,LTE All 8 GB + 1 GB,Telefónica,0,9000,50000,0,0,True,0,True,24,month
 871,winSIM,LTE All 5 GB + 3 GB,Telefónica,0,8000,50000,0,0,True,0,True,24,month
 887,blau,Allnet XL + 4 GB,Telefónica,0,9000,21600,0,0,True,0,True,24,month
 890,wilhelm.tel.Mobil,Mobil Smart LTE,Telefónica,0,1500,21000,0,9,False,9,False,1,month
