@@ -143,7 +143,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1162,gmx.de,All-Net Flat LTE 9 GB,Telefónica,0,9000,21600,0,0,True,0,True,24,month
 1166,o2,my Data S,Telefónica,0,1000,225000,0,0,False,0,False,24,month
 1171,sim.de,LTE All 6 GB + 6 GB,Telefónica,0,12000,50000,0,0,True,0,True,24,month
-1171,smartmobil.de,LTE 5 + 3 GB,Telefónica,0,8000,50000,0,0,True,0,True,24,month
 1182,Crash,Allnet Flat 5 GB LTE 50,Telekom,0,5000,50000,0,0,True,0,True,24,month
 1182,blau,Allnet Plus + 4 GB,Telefónica,0,12000,21600,0,0,True,0,True,24,month
 1199,callmobile,cleverALLNET 3000,Telekom,0,3000,25000,0,0,True,0,True,24,month
