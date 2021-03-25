@@ -58,6 +58,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 657,klarmobil,Daten Flat 5 GB LTE,Vodafone,0,5000,50000,0,0,False,9,False,24,month
 671,galaxyexperte.de,LTE All 1 GB,Telefónica,0,1000,50000,0,0,True,0,True,24,month
 671,handyvertrag.de,LTE All 3 GB + 2 GB,Telefónica,0,5000,50000,0,0,True,0,True,24,month
+671,sim.de,LTE All 6 GB,Telefónica,0,6000,50000,0,0,True,0,True,24,month
 678,BILDconnect,Data 1000 LTE,Telefónica,0,1000,50000,0,15,False,15,False,24,month
 682,freenet Mobile,Daten Flat 5 GB LTE,Vodafone,0,5000,50000,0,0,False,9,False,1,month
 683,gmx.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,0,True,0,True,24,month
