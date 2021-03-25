@@ -319,7 +319,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 3082,o2,Free L Boost Junge Leute,Telefónica,0,120000,300000,28,0,True,0,True,24,month
 3104,congstar,Allnet Flat L Flex,Telekom,0,15000,25000,0,0,True,0,True,1,month
 3125,congstar,Homespot 100 Flex,Telekom,0,100000,50000,0,0,False,9,False,1,month
-3165,1&1,All-Net-Flat 5G XL,Telefónica,0,40000,300000,0,0,True,0,True,24,month
+3165,1&1,All-Net-Flat 5G XL,Telefónica,0,50000,300000,0,0,True,0,True,24,month
 3166,mobilcom debitel,green LTE 60 GB,Telefónica,0,60000,225000,0,0,True,0,True,1,month
 3166,mobilcom debitel,o2 Free Unlimited Smart,Telefónica,0,9999000,10000,0,0,True,0,True,1,month
 3166,o2,Free Unlimited Smart Junge Leute,Telefónica,0,9999000,10000,28,0,True,0,True,24,month
