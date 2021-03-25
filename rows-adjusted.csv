@@ -37,6 +37,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 461,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,0,True,0,True,24,month
 471,PremiumSIM,LTE S,Telefónica,0,2000,50000,0,0,True,0,True,24,month
 471,PremiumSIM,LTE XS,Telefónica,0,100,21600,0,0,True,0,True,24,month
+471,sim.de,LTE All 2 GB + 1 GB,Telefónica,0,3000,50000,0,0,True,0,True,24,month
 482,freenet Mobile,Smartphone Flat 750 MB LTE 25,Telekom,0,750,25000,0,9,False,9,False,1,month
 496,OTELO,Smart S,Vodafone,0,450,21600,0,9,False,9,False,28,day
 499,callmobile,cleverSMART 750,Telekom,0,750,25000,0,9,False,9,False,24,month
@@ -45,7 +46,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 512,congstar,Prepaid Basic S,Telekom,0,500,25000,0,9,False,9,False,28,day
 541,Crash,Smartphone Flat 2 GB LTE,Vodafone,0,2000,21600,0,9,False,9,False,24,month
 571,sim.de,LTE All 500 MB,Telefónica,0,500,50000,0,0,True,0,True,24,month
-571,simplytel,LTE 3000,Telefónica,0,3000,50000,0,0,True,0,True,24,month
 571,winSIM,LTE All 3 GB + 1 GB,Telefónica,0,4000,50000,0,0,True,0,True,24,month
 582,freenet Mobile,Smartphone Flat 1 GB LTE,Vodafone,0,1000,21600,0,9,False,9,False,1,month
 591,blau,Allnet L + 1 GB,Telefónica,0,4000,21600,0,0,True,0,True,24,month
@@ -176,6 +176,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1449,1&1,Daten-Flat LTE M,Telefónica,0,10000,225000,0,20,False,20,False,24,month
 1449,mobilcom debitel,Allnet 15 GB LTE,Telefónica,0,15000,225000,0,0,True,0,True,24,month
 1470,mobilcom debitel,green LTE 20 GB,Telefónica,0,20000,225000,0,0,True,0,True,24,month
+1471,simplytel,LTE 20000,Telefónica,0,20000,50000,0,0,True,0,True,24,month
 1471,winSIM,LTE All 10 GB + 4 GB,Telefónica,0,14000,50000,0,0,True,0,True,24,month
 1473,primacall,Allnet 300,Telefónica,0,500,7200,0,15,False,15,False,24,month
 1478,EDEKA smart,kombi L,Telekom,0,3000,300000,0,9,False,9,False,28,day
@@ -245,7 +246,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1945,Crash,Allnet Flat 12 GB LTE 50,Telekom,0,12000,50000,0,0,True,0,True,24,month
 1957,Vodafone,Red XS,Vodafone,0,4000,500000,0,0,True,0,True,24,month
 1958,congstar,Homespot 30,Telekom,0,30000,50000,0,0,False,9,False,24,month
-1971,sim.de,LTE All 20 GB,Telefónica,0,20000,50000,0,0,True,0,True,24,month
 1973,primacall,Allnet Flat,Telefónica,0,500,7200,0,0,True,9,False,24,month
 1982,mobilcom debitel,Magenta Mobil S Young,Telekom,0,6000,300000,27,0,True,0,True,24,month
 1990,primamobile,Allnet Flat Mobile,Telefónica,0,500,7400,0,0,True,15,False,24,month
