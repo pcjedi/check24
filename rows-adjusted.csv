@@ -12,12 +12,10 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 -93,ALDI TALK,Basistarif,Telefónica,24,0,21600,0,11,False,11,False,0,day
 -63,Ortel Mobile,Standard-Tarif,Telefónica,49,0,21600,0,9,False,15,False,0,day
 -42,Kaufland Mobil,Basic,Telekom,1,0,25000,0,9,False,9,False,0,day
--42,NORMA Connect,Start,Telekom,2,0,25000,0,9,False,9,False,0,month
 -42,OTELO,Handy-Karte,Vodafone,1,0,21600,0,9,False,9,False,0,day
 -42,Vodafone,CallYa Classic,Vodafone,3,0,500000,0,9,False,9,False,0,day
 -42,blau,9 Cent Tarif,Telefónica,24,0,25000,0,9,False,9,False,0,day
 -42,congstar,Prepaid wie ich will,Telekom,1,0,25000,0,9,False,9,False,0,day
--21,ja! mobil,Easy,Telekom,2,0,25000,0,9,False,9,False,0,day
 0,Lycamobile,SMART Tarif,Vodafone,15,0,42000,0,18,False,15,False,0,day
 0,Saturn,Einsteiger-Tarif,Telefónica,24,0,7200,0,9,False,9,False,0,day
 0,yourfone,LTE Prepaid,Telefónica,8,0,21600,0,8,False,8,False,0,day
@@ -42,8 +40,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 491,blau,Allnet L,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 496,OTELO,Smart S,Vodafone,0,450,21600,0,9,False,9,False,28,day
 499,callmobile,cleverSMART 750,Telekom,0,750,25000,0,9,False,9,False,24,month
-511,ja! mobil,Prepaid Basic,Telekom,0,1000,25000,0,9,False,9,False,28,day
-511,ja! mobil,Prepaid Smart Basic,Telekom,0,750,25000,0,9,False,9,False,28,day
 512,congstar,Prepaid Basic S,Telekom,0,500,25000,0,9,False,9,False,28,day
 541,Crash,Smartphone Flat 2 GB LTE,Vodafone,0,2000,21600,0,9,False,9,False,24,month
 571,sim.de,LTE All 500 MB,Telefónica,0,500,50000,0,0,True,0,True,24,month
@@ -83,9 +79,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 799,callmobile,cleverSMART 1500,Telekom,0,1500,25000,0,9,False,9,False,24,month
 807,Media Markt,Super Select XS,Telefónica,0,2000,50000,0,29,False,14,False,1,month
 824,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,50000,0,0,True,0,True,24,month
-826,NORMA Connect,Smart S,Telekom,0,3000,25000,0,0,True,0,True,28,day
 826,blau,Allnet S,Telefónica,0,3000,25000,0,0,True,0,True,28,day
-826,ja! mobil,Prepaid Smart,Telekom,0,3000,25000,0,0,True,0,True,28,day
 841,Crash,Allnet Flat 5 GB LTE 25,Telekom,0,5000,25000,0,0,True,0,True,24,month
 841,congstar,Daten S,Telekom,0,1500,25000,0,0,False,9,False,24,month
 854,HIGH,HIGH 3 LTE 25,Telekom,0,3000,25000,0,0,True,0,True,24,month
@@ -164,11 +158,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1307,Lidl Connect,Smart L,Vodafone,0,6000,25000,0,0,True,0,True,28,day
 1318,ALDI TALK,Paket M,Telefónica,0,5000,21600,0,0,True,0,True,28,day
 1324,Crash,Allnet Flat 10 GB LTE 25,Telekom,0,10000,25000,0,0,True,0,True,24,month
-1348,NORMA Connect,Smart M,Telekom,0,5000,25000,0,0,True,0,True,28,day
 1353,Vodafone,DataGo M,Vodafone,0,12000,500000,0,0,False,19,False,24,month
 1357,blau,Allnet XL Flex,Telefónica,0,9000,21600,0,0,True,0,True,1,month
-1357,ja! mobil,Prepaid Smart Plus,Telekom,0,4000,25000,0,0,True,0,True,28,day
-1357,ja! mobil,Prepaid Smart Plus,Telekom,0,5000,25000,0,0,True,0,True,28,day
 1369,blau,Allnet M,Telefónica,0,6000,25000,0,0,True,0,True,28,day
 1378,BILDconnect,Data 3000 LTE,Telefónica,0,3000,50000,0,15,False,15,False,24,month
 1407,eteleon,LTE National 6000,Telefónica,0,6000,21600,0,0,True,0,True,24,month
@@ -262,10 +253,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2042,WEtell,Mittelwelle,Vodafone,0,5000,21600,0,0,True,0,True,1,month
 2054,congstar,Allnet Flat M,Telekom,0,10000,50000,0,0,True,0,True,24,month
 2064,o2,my Prepaid L,Telefónica,0,12500,25000,0,0,True,0,True,28,day
-2088,ja! mobil,Prepaid Smart Max,Telekom,0,6000,25000,0,0,True,0,True,28,day
-2088,ja! mobil,Prepaid Smart Max,Telekom,0,7000,25000,0,0,True,0,True,28,day
 2109,FONIC,Smart 7 GB,Telefónica,0,7000,21600,0,0,True,0,True,28,day
-2109,NORMA Connect,Smart L,Telekom,0,7000,25000,0,0,True,0,True,28,day
 2124,Media Markt,Super Select L,Telefónica,0,7000,50000,0,0,True,0,True,24,month
 2124,Saturn,Super Select L,Telefónica,0,7000,50000,0,0,True,0,True,24,month
 2125,congstar,Daten L,Telekom,0,8000,25000,0,0,False,9,False,1,month
