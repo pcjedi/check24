@@ -4,3 +4,7 @@ image:
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
     command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - ms-python.python@2020.10.332292344:5ctthQ25Qni5/aAuOIUTYQ==
