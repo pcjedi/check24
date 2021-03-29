@@ -1,8 +1,8 @@
 pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default,tariff.network.name,tariff.internet.pricePerUnit.price.amount,tariff.internet.traffic.value,tariff.internet.speed.value,tariff.ageCheck,tariff.voice.highestPrice.amount,tariff.voice.flatrate,tariff.sms.highestPrice.amount,tariff.sms.flatrate,tariff.contract.periods.contract.value,tariff.contract.periods.contract.unit
+-125,Lidl Connect,Classic,Vodafone,1,0,25000,0,9,False,9,False,0,day
 -125,klarmobil,Handy-Spar-Tarif,Telekom,2,0,21000,0,9,False,9,False,1,month
 -105,EDEKA smart,talk,Telekom,3,0,300000,0,9,False,9,False,0,month
 -104,Ay Yildiz,aystar,Telefónica,29,0,21600,0,9,False,9,False,0,day
--104,Lidl Connect,Classic,Vodafone,1,0,25000,0,9,False,9,False,0,day
 -104,NettoKOM,Basic,Telefónica,24,0,7200,0,9,False,9,False,0,day
 -104,Netzclub,Sponsored Surf Basic 2.0,Telefónica,0,200,21600,0,9,False,9,False,0,day
 -104,Rossmann mobil,FAMILY & FRIENDS,Vodafone,24,0,7200,0,11,False,11,False,0,day
@@ -30,7 +30,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 245,Telekom,Magenta Mobil Prepaid S,Telekom,3,0,300000,0,9,False,9,False,28,day
 396,Vodafone,CallYa Start,Vodafone,1,1000,500000,0,9,False,9,False,28,day
 416,klarmobil,Smartphone Flat 750 MB LTE 25,Telekom,0,750,25000,0,9,False,9,False,24,month
-438,Lidl Connect,Smart XS,Vodafone,0,1000,25000,0,9,False,9,False,28,day
+417,Lidl Connect,Smart XS,Vodafone,0,1000,25000,0,9,False,9,False,28,day
 441,Crash,Smartphone Flat 1 GB LTE,Vodafone,0,1000,21600,0,9,False,9,False,24,month
 461,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,0,True,0,True,24,month
 471,PremiumSIM,LTE S,Telefónica,0,2000,50000,0,0,True,0,True,24,month
@@ -65,12 +65,12 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 703,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,0,True,0,True,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 716,klarmobil,"Smartphone Flat 1,5 GB LTE 25",Telekom,0,1500,25000,0,9,False,9,False,24,month
+743,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,0,True,0,True,28,day
 749,mobilcom debitel,Smart Surf,Telefónica,0,1000,21600,0,29,False,19,False,24,month
 749,mobilcom debitel,green LTE 3 GB,Vodafone,0,3000,21600,0,0,True,19,False,24,month
 757,blau,Blau M,Telefónica,0,2000,21600,0,9,False,9,False,24,month
 757,mobilcom debitel,Smart Surf LTE,Vodafone,0,2000,21600,0,29,False,19,False,24,month
 761,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,50000,0,0,True,0,True,24,month
-764,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,0,True,0,True,28,day
 764,NettoKOM,Smart S,Telefónica,24,3000,21600,0,0,True,0,True,28,day
 764,Netzclub,Hero Special,Telefónica,0,2500,21600,0,9,False,9,False,28,day
 770,yourfone,LTE 1 GB,Telefónica,0,1000,50000,0,0,True,9,False,24,month
@@ -153,9 +153,9 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1270,M-Net Mobil,Allnet-LTE S,Telefónica,0,2000,21100,0,0,True,0,True,24,month
 1278,MegaSim,Allnet 9 GB LTE,Telefónica,0,9000,21600,0,0,True,0,True,1,month
 1282,freenet Mobile,Daten Flat 10 GB LTE,Vodafone,0,10000,50000,0,0,False,9,False,1,month
+1286,Lidl Connect,Smart L,Vodafone,0,6000,25000,0,0,True,0,True,28,day
 1299,TELE2,LTE Allnet-Flat L,Vodafone,0,10000,50000,0,0,True,0,True,24,month
 1303,mobilcom debitel,green LTE 10 GB,Telekom,0,10000,21600,0,0,True,19,False,24,month
-1307,Lidl Connect,Smart L,Vodafone,0,6000,25000,0,0,True,0,True,28,day
 1318,ALDI TALK,Paket M,Telefónica,0,5000,21600,0,0,True,0,True,28,day
 1324,Crash,Allnet Flat 10 GB LTE 25,Telekom,0,10000,25000,0,0,True,0,True,24,month
 1353,Vodafone,DataGo M,Vodafone,0,12000,500000,0,0,False,19,False,24,month
@@ -226,8 +226,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1807,Crash,Allnet Flat 20 GB LTE,Vodafone,0,20000,50000,0,0,True,0,True,24,month
 1824,freenet Mobile,Allnet Flat 15 GB LTE,Vodafone,0,15000,50000,0,0,True,0,True,1,month
 1824,mobilcom debitel,green LTE 40 GB,Telefónica,0,40000,225000,0,0,True,0,True,24,month
+1829,Lidl Connect,Smart XL,Vodafone,0,12000,25000,0,0,True,0,True,28,day
 1832,OTELO,Allnet-Flat Max,Vodafone,0,40000,21600,0,0,True,0,True,24,month
-1850,Lidl Connect,Smart XL,Vodafone,0,12000,25000,0,0,True,0,True,28,day
 1857,mobilcom debitel,green LTE 18 GB,Vodafone,0,18000,50000,0,0,True,0,True,24,month
 1861,ALDI TALK,Paket L,Telefónica,0,7000,21600,0,0,True,0,True,28,day
 1866,mobilcom debitel,green LTE 20 GB,Telefónica,0,20000,225000,0,0,True,0,True,1,month
