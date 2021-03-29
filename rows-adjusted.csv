@@ -130,7 +130,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1106,Tchibo,Smart M,Telefónica,0,3000,21600,0,0,True,0,True,28,day
 1124,Media Markt,Super Select S,Telefónica,0,3000,50000,0,0,True,0,True,24,month
 1124,Saturn,Super Select S,Telefónica,0,3000,50000,0,0,True,0,True,24,month
-1127,Tchibo,Data S,Telefónica,0,3500,21600,0,9,False,9,False,28,day
+1127,Tchibo,Data S,Telefónica,0,4000,21600,0,9,False,9,False,28,day
 1136,mobilcom debitel,green Data L,Telekom,0,5000,150000,0,0,False,19,False,24,month
 1145,HIGH,HIGH 3 + 2 LTE 50,Telekom,0,5000,50000,0,0,True,0,True,24,month
 1145,MegaSim,Allnet 9 GB LTE,Telefónica,0,9000,21600,0,0,True,0,True,24,month
@@ -209,7 +209,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1641,mobilcom debitel,o2 Free S Boost,Telefónica,0,6000,225000,0,0,True,0,True,24,month
 1641,mobilcom debitel,o2 my Data M,Telefónica,0,10000,225000,0,0,False,19,False,24,month
 1662,FCB Mobil,FCB Mobil XS,Telekom,0,750,300000,0,0,True,0,True,24,month
-1670,Tchibo,Data M,Telefónica,0,5500,21600,0,9,False,9,False,28,day
+1670,Tchibo,Data M,Telefónica,0,7000,21600,0,9,False,9,False,28,day
 1686,Crash,Allnet Flat 17 GB LTE,Vodafone,0,17000,50000,0,0,True,0,True,24,month
 1690,Tchibo,Smart L,Telefónica,0,6000,21600,0,0,True,0,True,28,day
 1695,mobilcom debitel,green Data XL,Telekom,0,15000,150000,0,0,False,19,False,24,month
@@ -269,7 +269,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2199,goood,Allnet-Flat Classic,Vodafone,0,10000,50000,0,0,True,0,True,24,month
 2199,goood,LTE 20000,Telefónica,0,20000,50000,0,0,True,0,True,24,month
 2207,eteleon,LTE National 10000,Telefónica,0,10000,21600,0,0,True,0,True,24,month
-2214,Tchibo,Data L,Telefónica,0,7000,21600,0,9,False,9,False,28,day
+2214,Tchibo,Data L,Telefónica,0,12000,21600,0,9,False,9,False,28,day
 2214,Tchibo,Smart XL,Telefónica,0,10000,21600,0,0,True,0,True,28,day
 2249,1&1,Daten-Flat LTE XL,Telefónica,0,20000,225000,0,20,False,20,False,24,month
 2249,OTELO,Allnet-Flat Max,Vodafone,0,20000,50000,0,0,True,0,True,24,month
