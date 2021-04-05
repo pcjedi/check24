@@ -273,7 +273,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2249,OTELO,Max Young,Vodafone,0,24000,50000,27,0,True,0,True,24,month
 2274,Vodafone,Young L,Vodafone,0,40000,500000,27,0,True,0,True,24,month
 2291,o2,my Home S,Telefónica,0,100000,10000,0,0,False,0,False,24,month
-2357,mobilcom debitel,green LTE 26 GB,Vodafone,0,26000,50000,0,0,True,0,True,24,month
 2461,Telekom,Magenta Mobil M Young,Telekom,0,12000,300000,27,0,True,0,True,24,month
 2482,mobilcom debitel,Magenta Mobil M Young,Telekom,0,12000,300000,27,0,True,0,True,24,month
 2495,mobilcom debitel,o2 Free M Boost,Telefónica,0,40000,225000,0,0,True,0,True,24,month
