@@ -284,6 +284,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2557,mobilcom debitel,green LTE 26 GB,Telekom,0,26000,21600,0,0,True,0,True,24,month
 2573,primacall,Allnet Flat XL,Telefónica,0,1000,7200,0,0,True,0,True,24,month
 2582,o2,Free L Junge Leute,Telefónica,0,60000,300000,28,0,True,0,True,24,month
+2599,mobilcom debitel,green LTE 30 GB,Vodafone,0,30000,100000,0,0,True,0,True,24,month
 2635,Telekom,Magenta Mobil Prepaid XL,Telekom,99,5000,300000,0,0,True,0,True,28,day
 2665,1&1,All-Net-Flat LTE L,Telefónica,0,20000,225000,0,0,True,0,True,24,month
 2666,mobilcom debitel,green LTE 40 GB,Telefónica,0,40000,225000,0,0,True,0,True,1,month
