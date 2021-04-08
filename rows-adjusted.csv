@@ -230,7 +230,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1928,mobilcom debitel,Red XS,Vodafone,0,4000,500000,0,0,True,0,True,24,month
 1957,Vodafone,Red XS,Vodafone,0,4000,500000,0,0,True,0,True,24,month
 1958,congstar,Homespot 30,Telekom,0,30000,50000,0,0,False,9,False,24,month
-1971,winSIM,LTE All 20 GB,Telefónica,0,20000,50000,0,0,True,0,True,24,month
+1971,simplytel,LTE 20000,Telefónica,0,20000,50000,0,0,True,0,True,24,month
 1971,winSIM,LTE Internet 22 GB,Telefónica,0,22000,50000,0,19,False,19,False,24,month
 1973,primacall,Allnet Flat,Telefónica,0,500,7200,0,0,True,9,False,24,month
 1982,mobilcom debitel,Magenta Mobil S Young,Telekom,0,6000,300000,27,0,True,0,True,24,month
