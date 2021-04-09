@@ -65,6 +65,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 743,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,0,True,0,True,28,day
 749,mobilcom debitel,Smart Surf,Telefónica,0,1000,21600,0,29,False,19,False,24,month
 749,mobilcom debitel,green LTE 3 GB,Vodafone,0,3000,21600,0,0,True,19,False,24,month
+749,sim.de,LTE All 6 GB + 1 GB,Telefónica,0,7000,50000,0,0,True,0,True,24,month
 757,blau,Blau M,Telefónica,0,2000,21600,0,9,False,9,False,24,month
 757,mobilcom debitel,Smart Surf LTE,Vodafone,0,2000,21600,0,29,False,19,False,24,month
 761,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,50000,0,0,True,0,True,24,month
@@ -97,8 +98,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 961,MegaSim,Allnet 10 GB LTE,Telefónica,0,10000,50000,0,0,True,0,True,24,month
 961,WhatsApp SIM,WhatsAll 4000,Telefónica,0,4000,21600,0,9,False,9,False,28,day
 971,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,0,True,0,True,24,month
-971,sim.de,LTE All 6 GB + 4 GB,Telefónica,0,10000,50000,0,0,True,0,True,24,month
-971,smartmobil.de,LTE 5 + 2 GB,Telefónica,0,7000,50000,0,0,True,0,True,24,month
 971,winSIM,LTE Internet 6 GB,Telefónica,0,6000,50000,0,19,False,19,False,24,month
 977,FONIC,"Surf-Flat 3,5 GB",Telefónica,0,3500,21600,0,9,False,9,False,28,day
 977,o2,my Prepaid S,Telefónica,0,3500,25000,0,0,True,0,True,28,day
@@ -270,6 +269,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2249,1&1,Daten-Flat LTE XL,Telefónica,0,20000,225000,0,20,False,20,False,24,month
 2249,OTELO,Max Young,Vodafone,0,24000,50000,27,0,True,0,True,24,month
 2263,congstar,Daten L,Telekom,0,16000,25000,0,0,False,9,False,24,month
+2271,galaxyexperte.de,LTE All 10 GB,Telefónica,0,10000,50000,0,0,True,0,True,24,month
 2274,Vodafone,Young L,Vodafone,0,40000,500000,27,0,True,0,True,24,month
 2291,o2,my Home S,Telefónica,0,100000,10000,0,0,False,0,False,24,month
 2346,congstar,Daten L,Telekom,0,16000,25000,0,0,False,9,False,1,month
