@@ -2,7 +2,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 -105,EDEKA smart,talk,Telekom,3,0,300000,0,9,False,9,False,0,month
 -104,Ay Yildiz,aystar,Telefónica,29,0,21600,0,9,False,9,False,0,day
 -104,Lidl Connect,Classic,Vodafone,1,0,25000,0,9,False,9,False,0,day
--104,NettoKOM,Basic,Telefónica,24,0,7200,0,9,False,9,False,0,day
+-104,NettoKOM,Basic,Telefónica,24,0,25000,0,9,False,9,False,0,day
 -104,Netzclub,Sponsored Surf Basic 2.0,Telefónica,0,200,21600,0,9,False,9,False,0,day
 -104,Rossmann mobil,FAMILY & FRIENDS,Vodafone,24,0,7200,0,11,False,11,False,0,day
 -104,WhatsApp SIM,Basis Tarif,Telefónica,1,0,21600,0,9,False,9,False,28,day
@@ -68,7 +68,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 757,blau,Blau M,Telefónica,0,2000,21600,0,9,False,9,False,24,month
 757,mobilcom debitel,Smart Surf LTE,Vodafone,0,2000,21600,0,29,False,19,False,24,month
 764,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,0,True,0,True,28,day
-764,NettoKOM,Smart S,Telefónica,24,3000,21600,0,0,True,0,True,28,day
+764,NettoKOM,Smart S,Telefónica,24,3000,25000,0,0,True,0,True,28,day
 764,Netzclub,Hero Special,Telefónica,0,2500,21600,0,9,False,9,False,28,day
 770,yourfone,LTE 1 GB,Telefónica,0,1000,50000,0,0,True,9,False,24,month
 771,handyvertrag.de,LTE All 5 GB + 2 GB,Telefónica,0,7000,50000,0,0,True,0,True,24,month
@@ -101,6 +101,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 971,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,0,True,0,True,24,month
 971,winSIM,LTE All 10 GB,Telefónica,0,10000,50000,0,0,True,0,True,24,month
 971,winSIM,LTE Internet 6 GB,Telefónica,0,6000,50000,0,19,False,19,False,24,month
+977,FONIC,Smart 3 GB,Telefónica,0,3000,21600,0,0,True,0,True,28,day
 977,FONIC,"Surf-Flat 3,5 GB",Telefónica,0,3500,21600,0,9,False,9,False,28,day
 977,o2,my Prepaid S,Telefónica,0,3500,25000,0,0,True,0,True,28,day
 981,Lidl Connect,Data L,Vodafone,0,5000,25000,0,9,False,9,False,28,day
