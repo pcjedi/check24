@@ -71,10 +71,10 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 764,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,0,True,0,True,28,day
 764,NettoKOM,Smart S,Telefónica,24,3000,25000,0,0,True,0,True,28,day
 764,Netzclub,Hero Special,Telefónica,0,2500,21600,0,9,False,9,False,28,day
+770,blau,Allnet L + 4 GB,o2,0,7000,21600,0,0,True,0,True,24,month
 770,yourfone,LTE 1 GB,Telefónica,0,1000,50000,0,0,True,9,False,24,month
 776,ALDI TALK,Paket S,Telefónica,0,3000,21600,0,0,True,0,True,28,day
 778,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,0,True,0,True,1,month
-791,blau,Allnet L + 4 GB,o2,0,7000,21600,0,0,True,0,True,24,month
 799,callmobile,cleverSMART 1500,Telekom,0,1500,25000,0,9,False,9,False,24,month
 807,Media Markt,Super Select XS,Telefónica,0,2000,50000,0,29,False,14,False,1,month
 824,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,50000,0,0,True,0,True,24,month
