@@ -17,6 +17,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 -42,congstar,Prepaid wie ich will,Telekom,1,0,25000,0,9,False,9,False,0,day
 0,Lycamobile,SMART Tarif,Vodafone,15,0,42000,0,18,False,15,False,0,day
 0,Saturn,Einsteiger-Tarif,Telefónica,24,0,7200,0,9,False,9,False,0,day
+0,o2,my Prepaid 9 Ct.,Telefónica,0,30,225000,0,9,False,9,False,28,day
 0,yourfone,LTE Prepaid,Telefónica,8,0,21600,0,8,False,8,False,0,day
 8,Media Markt,Einsteiger-Tarif,Telefónica,24,0,7200,0,9,False,9,False,0,day
 21,n-tv,Prepaid 6 Cent,Telefónica,6,0,2160,0,6,False,6,False,0,day
@@ -231,7 +232,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1912,blau,Allnet L,Telefónica,0,12000,25000,0,0,True,0,True,28,day
 1928,mobilcom debitel,Red XS,Vodafone,0,4000,500000,0,0,True,0,True,24,month
 1957,Vodafone,Red XS,Vodafone,0,4000,500000,0,0,True,0,True,24,month
-1971,simplytel,LTE 20000,Telefónica,0,20000,50000,0,0,True,0,True,24,month
+1971,winSIM,LTE All 20 GB,Telefónica,0,20000,50000,0,0,True,0,True,24,month
 1971,winSIM,LTE Internet 22 GB,Telefónica,0,22000,50000,0,19,False,19,False,24,month
 1973,primacall,Allnet Flat,Telefónica,0,500,7200,0,0,True,9,False,24,month
 1979,congstar,Homespot 30,Telekom,0,30000,50000,0,0,False,9,False,24,month
