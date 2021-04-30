@@ -12,7 +12,7 @@ tariff.internet.traffic.value,tariff.network.name,tariff.ageCheck,24m,pricelayer
 500,Telefónica,0,True,471
 500,Telekom,0,False,512
 750,Telekom,0,False,399
-750,Telekom,0,True,299
+750,Telekom,0,True,416
 750,Vodafone,0,False,221
 1000,Telefónica,0,False,930
 1000,Telefónica,0,True,471
@@ -109,7 +109,7 @@ tariff.internet.traffic.value,tariff.network.name,tariff.ageCheck,24m,pricelayer
 24000,Telekom,27,True,2982
 24000,Vodafone,27,True,1749
 25000,Telekom,0,True,2995
-26000,Telekom,0,True,2074
+26000,Telekom,0,True,2178
 30000,Telekom,0,False,2146
 30000,Telekom,0,True,1979
 30000,Vodafone,0,True,2599
