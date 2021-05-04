@@ -135,7 +135,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1145,MegaSim,Allnet 9 GB LTE,Telefónica,0,9000,21600,0,0,True,0,True,24,month
 1146,congstar,Daten S,Telekom,0,4000,25000,0,0,False,9,False,1,month
 1157,mobilcom debitel,green LTE 5 GB,Vodafone,0,5000,21600,0,0,True,19,False,24,month
-1162,web.de,All-Net Flat LTE 9 GB,Telefónica,0,9000,21600,0,0,True,0,True,24,month
+1162,gmx.de,All-Net Flat LTE 9 GB,Telefónica,0,9000,21600,0,0,True,0,True,24,month
 1166,o2,my Data S,o2,0,1000,225000,0,0,False,0,False,24,month
 1171,sim.de,LTE All 6 GB + 6 GB,Telefónica,0,12000,50000,0,0,True,0,True,24,month
 1171,smartmobil.de,LTE 5 + 4 GB,Telefónica,0,9000,50000,0,0,True,0,True,24,month
@@ -203,8 +203,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1591,mobilcom debitel,green LTE 15 GB,Vodafone,0,15000,50000,0,0,True,19,False,24,month
 1599,TELE2,LTE Allnet-Flat XL,Vodafone,0,20000,50000,0,0,True,0,True,24,month
 1604,congstar,Allnet Flat M Flex 5 GB,Telekom,0,5000,25000,0,0,True,0,True,1,month
-1624,Media Markt,Super Select M,Telefónica,0,5000,50000,0,0,True,0,True,24,month
 1624,Saturn,Super Select M,Telefónica,0,5000,50000,0,0,True,0,True,24,month
+1624,Media Markt,Super Select M,Telefónica,0,5000,50000,0,0,True,0,True,24,month
 1641,mobilcom debitel,o2 Free S Boost,o2,0,6000,225000,0,0,True,0,True,24,month
 1657,freenet Mobile,Allnet Flat 15 GB LTE,Vodafone,0,15000,50000,0,0,True,0,True,12,month
 1662,FCB Mobil,FCB Mobil XS,Telekom,0,750,300000,0,0,True,0,True,24,month
@@ -251,8 +251,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2099,mobilcom debitel,green LTE 20 GB,Vodafone,0,20000,50000,0,0,True,0,True,24,month
 2109,FONIC,Smart 7 GB,Telefónica,0,7000,21600,0,0,True,0,True,28,day
 2114,FCB Mobil,FCB Mobil S,Telekom,0,5500,300000,0,0,True,0,True,24,month
-2124,Media Markt,Super Select L,Telefónica,0,7000,50000,0,0,True,0,True,24,month
 2124,Saturn,Super Select L,Telefónica,0,7000,50000,0,0,True,0,True,24,month
+2124,Media Markt,Super Select L,Telefónica,0,7000,50000,0,0,True,0,True,24,month
 2131,Vodafone,CallYa Digital,Vodafone,0,10000,500000,0,0,True,0,True,28,day
 2145,HIGH,HIGH 10 + 5 LTE 50,Telekom,0,15000,50000,0,0,True,0,True,24,month
 2146,congstar,Homespot 30 Flex,Telekom,0,30000,50000,0,0,False,9,False,1,month
@@ -326,7 +326,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 4124,Saturn,Super Select XL,Telefónica,0,12000,50000,0,0,True,0,True,24,month
 4124,Media Markt,Super Select XL,Telefónica,0,12000,50000,0,0,True,0,True,24,month
 4166,mobilcom debitel,o2 Free Unlimited Max,o2,0,9999000,225000,0,0,True,0,True,1,month
-4166,o2,Free Unlimited Max Junge Leute,o2,0,9999000,300000,28,0,True,0,True,24,month
 4271,congstar,Homespot 200,Telekom,0,200000,50000,0,0,False,9,False,24,month
 4524,Vodafone,GigaCube Max,Vodafone,0,250000,300000,0,0,False,0,False,24,month
 4646,congstar,Homespot 200 Flex,Telekom,0,200000,50000,0,0,False,9,False,1,month
@@ -334,11 +333,12 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 4666,mobilcom debitel,green LTE 2go Flex,Telefónica,0,9999000,150000,0,0,False,0,False,1,month
 4666,o2,Free Unlimited Smart Flex,o2,0,9999000,10000,0,0,True,0,True,1,month
 4928,mobilcom debitel,Red L,Vodafone,0,40000,500000,0,0,True,0,True,24,month
+5166,o2,Free Unlimited Max Junge Leute,o2,0,9999000,300000,28,0,True,0,True,24,month
 5290,1&1,All-Net-Flat 5G XXL,Telefónica,0,9999000,300000,0,0,True,0,True,24,month
-5666,o2,Free Unlimited Max Flex,o2,0,9999000,300000,0,0,True,0,True,1,month
 6042,congstar,congstar X,Telekom,0,200000,50000,0,0,True,0,True,24,month
 6125,congstar,congstar X Flex,Telekom,0,200000,50000,0,0,True,0,True,1,month
 6428,mobilcom debitel,Red XL,Vodafone,0,9999000,500000,0,0,True,0,True,24,month
+6666,o2,Free Unlimited Max Flex,o2,0,9999000,300000,0,0,True,0,True,1,month
 7524,Vodafone,GigaCube Pro,Vodafone,0,500000,300000,0,0,False,0,False,24,month
 7628,Telekom,Magenta Mobil XL,Telekom,0,9999000,300000,0,0,True,0,True,24,month
 8292,Telekom,MagentaEINS Plus S,Telekom,0,9999000,100000,0,0,True,0,True,1,month
