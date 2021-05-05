@@ -22,11 +22,11 @@ tariff.internet.traffic.value,tariff.network.name,tariff.ageCheck,24m,pricelayer
 1500,Telefónica,0,False,890
 1500,Telefónica,0,True,896
 1500,Telekom,0,False,1014
-1500,Telekom,0,True,716
+1500,Telekom,0,True,799
 2000,Telefónica,0,False,807
 2000,Telefónica,0,True,471
 2000,Telekom,0,False,1006
-2000,Telekom,0,True,1021
+2000,Telekom,0,True,616
 2000,Vodafone,0,False,599
 2000,Vodafone,0,True,541
 2000,Vodafone,27,True,1016

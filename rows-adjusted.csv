@@ -47,6 +47,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 599,freenet Mobile,Daten Flat 5 GB LTE,Vodafone,0,5000,50000,0,0,False,9,False,1,month
 599,freenet Mobile,Minuten Tarif 2 GB,Vodafone,0,2000,21600,0,9,False,9,False,1,month
 607,eteleon,LTE National 1000,Telefónica,0,1000,21600,0,0,True,0,True,24,month
+616,klarmobil,Minuten Tarif 2 GB,Telekom,0,2000,25000,0,9,False,9,False,24,month
 620,Crash,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,0,True,0,True,24,month
 621,maXXim,LTE 1000,Telefónica,0,1000,21600,0,0,True,0,True,24,month
 626,FYVE,Smart XS,Vodafone,0,1000,21600,0,9,False,9,False,1,month
@@ -58,7 +59,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 683,gmx.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 699,DOKOM 21,Mobil plus,Telefónica,0,300,7200,0,15,False,15,False,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,0,True,0,True,24,month
-716,klarmobil,"Smartphone Flat 1,5 GB LTE 25",Telekom,0,1500,25000,0,9,False,9,False,24,month
 745,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,0,True,0,True,24,month
 749,mobilcom debitel,Smart Surf,Telefónica,0,1000,21600,0,29,False,19,False,24,month
 757,blau,Blau M,Telefónica,0,2000,21600,0,9,False,9,False,24,month
