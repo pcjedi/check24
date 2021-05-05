@@ -330,12 +330,12 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 4666,o2,Free L Flex,Telefónica,0,60000,300000,0,0,True,0,True,1,month
 4666,o2,Free Unlimited Smart Flex,Telefónica,0,9999000,10000,0,0,True,0,True,1,month
 4928,mobilcom debitel,Red L,Vodafone,0,40000,500000,0,0,True,0,True,24,month
-5166,o2,Free Unlimited Max Junge Leute,Telefónica,0,9999000,300000,28,0,True,0,True,24,month
+5166,o2,Free Unlimited Max Junge Leute,Telefónica,0,9999000,500000,28,0,True,0,True,24,month
 5290,1&1,All-Net-Flat 5G XXL,Telefónica,0,9999000,300000,0,0,True,0,True,24,month
 6042,congstar,congstar X,Telekom,0,200000,50000,0,0,True,0,True,24,month
 6125,congstar,congstar X Flex,Telekom,0,200000,50000,0,0,True,0,True,1,month
 6428,mobilcom debitel,Red XL,Vodafone,0,9999000,500000,0,0,True,0,True,24,month
-6666,o2,Free Unlimited Max Flex,Telefónica,0,9999000,300000,0,0,True,0,True,1,month
+6666,o2,Free Unlimited Max Flex,Telefónica,0,9999000,500000,0,0,True,0,True,1,month
 7524,Vodafone,GigaCube Pro,Vodafone,0,500000,300000,0,0,False,0,False,24,month
 7628,Telekom,Magenta Mobil XL,Telekom,0,9999000,300000,0,0,True,0,True,24,month
 8292,Telekom,MagentaEINS Plus S,Telekom,0,9999000,100000,0,0,True,0,True,1,month
