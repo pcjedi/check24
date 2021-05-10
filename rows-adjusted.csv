@@ -105,7 +105,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 990,simquadrat,Grundpaket mit 1000 MB Internetpaket,Telefónica,0,1000,50000,0,9,False,7,False,1,month
 999,EWE,Einfach Mobil Basic,Vodafone,0,1000,7200,0,19,False,19,False,24,month
 999,Saturn,Smartphone Tarif Plus,Telefónica,0,300,21600,0,9,False,9,False,0,day
-999,klarmobil,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,0,True,0,True,1,month
+999,freenet Mobile,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,0,True,0,True,1,month
 1006,Telekom,Magenta Mobil Prepaid M,Telekom,0,2000,300000,0,9,False,9,False,28,day
 1007,mobilcom debitel,o2 Free S,Telefónica,0,3000,225000,0,0,True,0,True,24,month
 1012,EDEKA smart,kombi M,Telekom,0,2000,300000,0,9,False,9,False,28,day
@@ -227,7 +227,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1907,eteleon,LTE National 8000,Telefónica,0,8000,21600,0,0,True,0,True,24,month
 1912,blau,Allnet L,Telefónica,0,12000,25000,0,0,True,0,True,28,day
 1928,mobilcom debitel,Red XS,Vodafone,0,4000,500000,0,0,True,0,True,24,month
-1971,sim.de,LTE All 20 GB,Telefónica,0,20000,50000,0,0,True,0,True,24,month
+1971,simplytel,LTE 20000,Telefónica,0,20000,50000,0,0,True,0,True,24,month
 1971,winSIM,LTE Internet 22 GB,Telefónica,0,22000,50000,0,19,False,19,False,24,month
 1972,Vodafone,Young L,Vodafone,0,40000,500000,27,0,True,0,True,24,month
 1973,primacall,Allnet Flat,Telefónica,0,500,7200,0,0,True,9,False,24,month
@@ -262,6 +262,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2199,goood,Allnet-Flat Classic,Vodafone,0,10000,50000,0,0,True,0,True,24,month
 2199,goood,LTE 20000,Telefónica,0,20000,50000,0,0,True,0,True,24,month
 2207,eteleon,LTE National 10000,Telefónica,0,10000,21600,0,0,True,0,True,24,month
+2207,o2,my Data M,Telefónica,0,20000,300000,0,0,False,0,False,24,month
 2214,Tchibo,Data L,Telefónica,0,12000,21600,0,9,False,9,False,28,day
 2214,Tchibo,Smart XL,Telefónica,0,10000,25000,0,0,True,0,True,28,day
 2249,1&1,Daten-Flat LTE XL,Telefónica,0,20000,225000,0,20,False,20,False,24,month
