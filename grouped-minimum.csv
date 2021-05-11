@@ -121,7 +121,7 @@ tariff.internet.traffic.value,tariff.network.name,tariff.ageCheck,24m,pricelayer
 60000,Telefónica,0,False,3166
 60000,Telefónica,0,True,2995
 60000,Telefónica,28,True,2582
-100000,Telefónica,0,True,2291
+100000,Telefónica,0,True,2145
 100000,Telekom,0,False,3146
 100000,Telekom,0,True,2875
 120000,Telefónica,0,True,3495
