@@ -61,6 +61,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 745,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,0,True,0,True,24,month
 749,mobilcom debitel,Smart Surf,Telefónica,0,1000,21600,0,29,False,19,False,24,month
+749,sim.de,LTE All 6 GB + 1 GB,Telefónica,0,7000,50000,0,0,True,0,True,24,month
 757,blau,Blau M,Telefónica,0,2000,21600,0,9,False,9,False,24,month
 757,mobilcom debitel,Smart Surf LTE,Vodafone,0,2000,21600,0,29,False,19,False,24,month
 764,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,0,True,0,True,28,day
@@ -95,7 +96,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 961,WhatsApp SIM,WhatsAll 4000,Telefónica,0,4000,21600,0,9,False,9,False,28,day
 970,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,0,True,0,True,24,month
 971,sim.de,LTE All 4 GB,Telefónica,0,4000,50000,0,0,True,0,True,24,month
-971,smartmobil.de,LTE 5 + 2 GB,Telefónica,0,7000,50000,0,0,True,0,True,24,month
 971,winSIM,LTE All 10 GB,Telefónica,0,10000,50000,0,0,True,0,True,24,month
 971,winSIM,LTE Internet 6 GB,Telefónica,0,6000,50000,0,19,False,19,False,24,month
 977,FONIC,Smart 3 GB,Telefónica,0,3000,21600,0,0,True,0,True,28,day
@@ -106,7 +106,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 990,simquadrat,Grundpaket mit 1000 MB Internetpaket,Telefónica,0,1000,50000,0,9,False,7,False,1,month
 999,EWE,Einfach Mobil Basic,Vodafone,0,1000,7200,0,19,False,19,False,24,month
 999,Saturn,Smartphone Tarif Plus,Telefónica,0,300,21600,0,9,False,9,False,0,day
-999,klarmobil,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,0,True,0,True,1,month
+999,freenet Mobile,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,0,True,0,True,1,month
 1006,Telekom,Magenta Mobil Prepaid M,Telekom,0,2000,300000,0,9,False,9,False,28,day
 1007,mobilcom debitel,o2 Free S,Telefónica,0,3000,225000,0,0,True,0,True,24,month
 1012,EDEKA smart,kombi M,Telekom,0,2000,300000,0,9,False,9,False,28,day
