@@ -30,7 +30,7 @@ tariff.internet.traffic.value,tariff.network.name,tariff.ageCheck,24m,pricelayer
 2000,Vodafone,0,False,682
 2000,Vodafone,0,True,541
 2000,Vodafone,27,True,1416
-2500,Telefónica,0,False,764
+2500,Telefónica,0,False,981
 3000,Telefónica,0,False,764
 3000,Telefónica,0,True,671
 3000,Telekom,0,False,1044
