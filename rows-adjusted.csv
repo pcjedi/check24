@@ -85,7 +85,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 846,yourfone,LTE 1 GB,Telefónica,0,1000,50000,0,0,True,9,False,24,month
 854,HIGH,HIGH 3 LTE 25,Telekom,0,3000,25000,0,0,True,0,True,24,month
 854,goood,LTE 5000 + 1 GB,Telefónica,0,6000,50000,0,0,True,0,True,24,month
-890,wilhelm.tel.Mobil,Mobil Allnet Smart,Telefónica,0,3146,21000,0,0,True,0,True,1,month
+890,wilhelm.tel.Mobil,Mobil Allnet Smart,Telefónica,0,3000,21000,0,0,True,0,True,1,month
 895,HIGH,HIGH 3 + 2 LTE 25,Telekom,0,5000,25000,0,0,True,0,True,24,month
 895,WOBCOM,Smart,Telefónica,0,2000,21600,0,10,False,10,False,12,month
 896,htp,Mobil Smart LTE,Telefónica,0,1500,21600,0,15,False,15,False,24,month

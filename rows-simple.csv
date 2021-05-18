@@ -62,7 +62,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 671,PremiumSIM,LTE S,Telefónica,0,2000,50000,0,0,True,0,True,24,month
 682,freenet Mobile,Daten Flat 5 GB LTE,Vodafone,0,5000,50000,0,0,False,9,False,1,month
 682,freenet Mobile,Minuten Tarif 2 GB,Vodafone,0,2000,21600,0,9,False,9,False,1,month
-683,gmx.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,0,True,0,True,24,month
+683,web.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 691,blau,Allnet L + 3 GB,o2,0,6000,21600,0,0,True,0,True,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 745,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,0,True,0,True,24,month
@@ -77,7 +77,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 791,blau,Allnet L + 4 GB,o2,0,7000,21600,0,0,True,0,True,24,month
 799,callmobile,cleverSMART 1500,Telekom,0,1500,25000,0,9,False,9,False,24,month
 824,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,50000,0,0,True,0,True,24,month
-826,ja! mobil,Prepaid Smart,Telekom,0,3000,25000,0,0,True,0,True,28,day
+826,Penny Mobil,Prepaid Smart,Telekom,0,3000,25000,0,0,True,0,True,28,day
 826,NORMA Connect,Smart S,Telekom,0,3000,25000,0,0,True,0,True,28,day
 826,blau,Allnet S,o2,0,3000,25000,0,0,True,0,True,28,day
 833,allmobil,Flat M,Vodafone,0,2000,21600,0,0,True,0,True,24,month
@@ -85,7 +85,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 846,yourfone,LTE 1 GB,Telefónica,0,1000,50000,0,0,True,9,False,24,month
 854,HIGH,HIGH 3 LTE 25,Telekom,0,3000,25000,0,0,True,0,True,24,month
 854,goood,LTE 5000 + 1 GB,Telefónica,0,6000,50000,0,0,True,0,True,24,month
-890,wilhelm.tel.Mobil,Mobil Allnet Smart,Telefónica,0,3146,21000,0,0,True,0,True,1,month
+890,wilhelm.tel.Mobil,Mobil Allnet Smart,Telefónica,0,3000,21000,0,0,True,0,True,1,month
 895,HIGH,HIGH 3 + 2 LTE 25,Telekom,0,5000,25000,0,0,True,0,True,24,month
 895,WOBCOM,Smart,Telefónica,0,2000,21600,0,10,False,10,False,12,month
 896,htp,Mobil Smart LTE,Telefónica,0,1500,21600,0,15,False,15,False,24,month
