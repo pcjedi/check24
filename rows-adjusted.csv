@@ -165,7 +165,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1348,NORMA Connect,Smart M,Telekom,0,5000,25000,0,0,True,0,True,28,day
 1357,blau,Allnet XL Flex,Telefónica,0,9000,21600,0,0,True,0,True,1,month
 1357,ja! mobil,Prepaid Smart Plus,Telekom,0,4000,25000,0,0,True,0,True,28,day
-1357,ja! mobil,Prepaid Smart Plus,Telekom,0,5000,25000,0,0,True,0,True,28,day
+1357,ja! mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,0,True,0,True,28,day
 1369,blau,Allnet M,Telefónica,0,6000,25000,0,0,True,0,True,28,day
 1378,BILDconnect,Data 3000 LTE,Telefónica,0,3000,50000,0,15,False,15,False,24,month
 1407,eteleon,LTE National 6000,Telefónica,0,6000,21600,0,0,True,0,True,24,month
@@ -244,8 +244,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2041,Vodafone,DataGo L,Vodafone,0,16000,500000,0,0,False,19,False,24,month
 2042,WEtell,Mittelwelle,Vodafone,0,5000,21600,0,0,True,0,True,1,month
 2064,o2,my Prepaid L,Telefónica,0,12500,25000,0,0,True,0,True,28,day
-2088,ja! mobil,Prepaid Smart Max,Telekom,0,6000,25000,0,0,True,0,True,28,day
-2088,ja! mobil,Prepaid Smart Max,Telekom,0,7000,25000,0,0,True,0,True,28,day
+2088,ja! mobil,Prepaid Smart Max,Telekom,0,12000,25000,0,0,True,0,True,28,day
 2096,yourfone,LTE 20 GB,Telefónica,0,20000,50000,0,0,True,9,False,24,month
 2099,mobilcom debitel,green LTE 20 GB,Vodafone,0,20000,50000,0,0,True,0,True,24,month
 2109,FONIC,Smart 12 GB,Telefónica,0,12000,21600,0,0,True,0,True,28,day
