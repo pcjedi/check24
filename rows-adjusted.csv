@@ -67,7 +67,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 745,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,0,True,0,True,24,month
 749,mobilcom debitel,Smart Surf,Telefónica,0,1000,21600,0,29,False,19,False,24,month
-757,Kaufland Mobil,Smart S,Telekom,1,3000,25000,0,0,True,0,True,0,day
 757,blau,Blau M,Telefónica,0,2000,21600,0,9,False,9,False,24,month
 757,mobilcom debitel,Smart Surf LTE,Vodafone,0,2000,21600,0,29,False,19,False,24,month
 764,ALDI TALK,Paket S,Telefónica,0,3000,21600,0,0,True,0,True,28,day
