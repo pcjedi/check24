@@ -316,10 +316,10 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 3207,o2,my Data L,Telefónica,0,60000,300000,0,0,False,0,False,24,month
 3299,goood,Allnet-Flat Max,Vodafone,0,20000,50000,0,0,True,0,True,24,month
 3495,mobilcom debitel,o2 Free L Boost,Telefónica,0,120000,225000,0,0,True,0,True,24,month
-3495,mobilcom debitel,o2 Free Unlimited Max,Telefónica,0,9999000,225000,0,0,True,0,True,24,month
 3514,FCB Mobil,FCB Mobil L,Telekom,0,20000,300000,0,0,True,0,True,24,month
 3524,Vodafone,GigaCube,Vodafone,0,125000,300000,0,0,False,0,False,24,month
 3599,mobilcom debitel,green LTE 40 GB,Vodafone,0,40000,100000,0,0,True,0,True,24,month
+3599,mobilcom debitel,o2 Free Unlimited Max,Telefónica,0,9999000,225000,0,0,True,0,True,24,month
 3666,o2,Free M Flex,Telefónica,0,20000,225000,0,0,True,0,True,1,month
 3666,o2,Free Unlimited Basic Flex,Telefónica,0,9999000,2000,0,0,True,0,True,1,month
 3732,Telekom,Magenta Mobil L Young,Telekom,0,24000,300000,27,0,True,0,True,24,month
