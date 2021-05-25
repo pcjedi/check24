@@ -102,7 +102,7 @@ tariff.internet.traffic.value,tariff.network.name,tariff.ageCheck,24m,pricelayer
 20000,Telefónica,0,True,1470
 20000,Telefónica,28,True,2166
 20000,Telekom,0,False,2979
-20000,Telekom,0,True,2750
+20000,Telekom,0,True,1895
 20000,Vodafone,0,False,1999
 20000,Vodafone,0,True,1599
 20000,Vodafone,27,True,2145
