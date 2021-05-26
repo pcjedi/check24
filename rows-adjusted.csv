@@ -239,6 +239,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1979,congstar,Homespot 30,Telekom,0,30000,50000,0,0,False,9,False,24,month
 1982,mobilcom debitel,Magenta Mobil S Young,Telekom,0,6000,300000,27,0,True,0,True,24,month
 1990,primamobile,Allnet Flat Mobile,Telefónica,0,500,7400,0,0,True,15,False,24,month
+1992,congstar,Allnet Flat M,Telekom,0,10000,25000,0,0,True,0,True,24,month
 1995,mobilcom debitel,o2 Free M,Telefónica,0,20000,225000,0,0,True,0,True,24,month
 1999,1&1,Daten-Flat LTE L,Telefónica,0,15000,225000,0,20,False,20,False,1,month
 1999,klarmobil,Allnet Flat 20 GB LTE,Vodafone,0,20000,50000,0,0,True,0,True,1,month
@@ -246,7 +247,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1999,o2,Free S,Telefónica,0,3000,225000,0,0,True,0,True,24,month
 1999,o2,Free Unlimited Basic Junge Leute,Telefónica,0,9999000,2000,28,0,True,0,True,24,month
 2007,Crash,Allnet Flat 15 GB LTE 50,Telekom,0,15000,50000,0,0,True,0,True,24,month
-2013,congstar,Allnet Flat M,Telekom,0,10000,25000,0,0,True,0,True,24,month
 2019,FONIC,Smart 12 GB,Telefónica,0,12000,21600,0,0,True,0,True,28,day
 2036,Telekom,Magenta Mobil Data M,Telekom,0,10000,300000,0,0,False,0,False,24,month
 2041,Vodafone,DataGo L,Vodafone,0,16000,500000,0,0,False,19,False,24,month
