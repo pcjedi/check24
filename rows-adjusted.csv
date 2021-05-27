@@ -75,7 +75,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 778,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,0,True,0,True,1,month
 799,callmobile,cleverSMART 1500,Telekom,0,1500,25000,0,9,False,9,False,24,month
 824,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,50000,0,0,True,0,True,24,month
-826,Kaufland Mobil,Smart S,Telekom,1,3000,25000,0,0,True,0,True,28,day
+826,NORMA Connect,Smart S,Telekom,0,3000,25000,0,0,True,0,True,28,day
 826,blau,Allnet S,Telefónica,0,3000,25000,0,0,True,0,True,28,day
 826,ja! mobil,Prepaid Smart,Telekom,0,3000,25000,0,0,True,0,True,28,day
 833,allmobil,Flat M,Vodafone,0,2000,21600,0,0,True,0,True,24,month
@@ -106,6 +106,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 981,Netzclub,Hero,Telefónica,0,2500,21600,0,9,False,9,False,28,day
 982,blau,Allnet Plus + 2 GB,Telefónica,0,10000,21600,0,0,True,0,True,24,month
 990,simquadrat,Grundpaket mit 1000 MB Internetpaket,Telefónica,0,1000,50000,0,9,False,7,False,1,month
+991,mobilcom debitel,green Data XL,Telekom,0,15000,150000,0,0,False,19,False,24,month
 999,EWE,Einfach Mobil Basic,Vodafone,0,1000,7200,0,19,False,19,False,24,month
 999,klarmobil,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,0,True,0,True,1,month
 1006,Telekom,Magenta Mobil Prepaid M,Telekom,0,2000,300000,0,9,False,9,False,28,day
@@ -212,7 +213,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1663,congstar,Daten M,Telekom,0,8000,25000,0,0,False,9,False,24,month
 1670,Tchibo,Data M,Telefónica,0,7000,21600,0,9,False,9,False,28,day
 1686,Crash,Allnet Flat 17 GB LTE,Vodafone,0,17000,50000,0,0,True,0,True,24,month
-1695,mobilcom debitel,green Data XL,Telekom,0,15000,150000,0,0,False,19,False,24,month
 1699,1&1,Daten-Flat LTE M,Telefónica,0,10000,225000,0,20,False,20,False,1,month
 1707,Crash,Allnet Flat 15 GB LTE 25,Telekom,0,15000,25000,0,0,True,0,True,24,month
 1707,FONIC,Smart 6 GB,Telefónica,0,6000,21600,0,0,True,0,True,28,day
