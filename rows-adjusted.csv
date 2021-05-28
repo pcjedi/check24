@@ -49,7 +49,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 571,sim.de,LTE All 500 MB,Telefónica,0,500,50000,0,0,True,0,True,24,month
 571,winSIM,LTE All 1 GB,Telefónica,0,1000,50000,0,0,True,0,True,24,month
 571,winSIM,LTE All 3 GB + 1 GB,Telefónica,0,4000,50000,0,0,True,0,True,24,month
-591,blau,Allnet L + 2 GB,Telefónica,0,5000,21600,0,0,True,0,True,24,month
+591,blau,Allnet L + 1 GB,Telefónica,0,4000,21600,0,0,True,0,True,24,month
 607,eteleon,LTE National 1000,Telefónica,0,1000,21600,0,0,True,0,True,24,month
 620,Crash,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,0,True,0,True,24,month
 621,maXXim,LTE 1000,Telefónica,0,1000,21600,0,0,True,0,True,24,month
