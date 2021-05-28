@@ -216,6 +216,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1699,1&1,Daten-Flat LTE M,Telefónica,0,10000,225000,0,20,False,20,False,1,month
 1707,Crash,Allnet Flat 15 GB LTE 25,Telekom,0,15000,25000,0,0,True,0,True,24,month
 1707,FONIC,Smart 6 GB,Telefónica,0,6000,21600,0,0,True,0,True,28,day
+1707,o2,my Data M,Telefónica,0,20000,300000,0,0,False,0,False,24,month
 1741,freenet Mobile,Allnet Flat 15 GB LTE,Vodafone,0,15000,50000,0,0,True,0,True,12,month
 1746,congstar,Daten M,Telekom,0,8000,25000,0,0,False,9,False,1,month
 1749,1&1,Daten-Flat LTE L,Telefónica,0,15000,225000,0,20,False,20,False,24,month
@@ -272,6 +273,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2179,congstar,Allnet Flat M Flex,Telekom,0,10000,25000,0,0,True,0,True,1,month
 2199,goood,Allnet-Flat Classic,Vodafone,0,10000,50000,0,0,True,0,True,24,month
 2207,eteleon,LTE National 10000,Telefónica,0,10000,21600,0,0,True,0,True,24,month
+2207,o2,my Data L,Telefónica,0,60000,300000,0,0,False,0,False,24,month
 2207,o2,my Data M,Telefónica,0,20000,300000,0,0,False,0,False,24,month
 2214,Tchibo,Data L,Telefónica,0,12000,21600,0,9,False,9,False,28,day
 2214,Tchibo,Smart XL,Telefónica,0,10000,25000,0,0,True,0,True,28,day
