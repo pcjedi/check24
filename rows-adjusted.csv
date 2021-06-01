@@ -106,6 +106,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 981,Netzclub,Hero,Telefónica,0,2500,21600,0,9,False,9,False,28,day
 982,blau,Allnet Plus + 2 GB,Telefónica,0,10000,21600,0,0,True,0,True,24,month
 990,simquadrat,Grundpaket mit 1000 MB Internetpaket,Telefónica,0,1000,50000,0,9,False,7,False,1,month
+999,Ay Yildiz,Ay Allnet,Telefónica,0,6000,21600,0,0,True,12,False,24,month
 999,EWE,Einfach Mobil Basic,Vodafone,0,1000,7200,0,19,False,19,False,24,month
 999,klarmobil,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,0,True,0,True,1,month
 1006,Telekom,Magenta Mobil Prepaid M,Telekom,0,2000,300000,0,9,False,9,False,28,day
@@ -151,7 +152,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1212,mobilcom debitel,o2 Now,Telefónica,0,3000,225000,0,0,True,9,False,24,month
 1216,HIGH,HIGH 5 + 5 LTE 25,Telekom,0,10000,25000,0,0,True,0,True,24,month
 1221,congstar,Allnet Flat S Flex,Telekom,0,3000,25000,0,0,True,0,True,1,month
-1249,Ay Yildiz,Ay Allnet,Telefónica,0,4500,21600,0,0,True,12,False,24,month
 1256,allmobil,Flat XL,Vodafone,0,6000,21600,0,0,True,0,True,24,month
 1257,klarmobil,Daten Flat 10 GB LTE,Vodafone,0,10000,50000,0,0,False,9,False,24,month
 1261,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,21600,0,0,True,0,True,1,month
