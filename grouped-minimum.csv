@@ -108,14 +108,14 @@ tariff.internet.traffic.value,tariff.network.name,tariff.ageCheck,24m,pricelayer
 20000,Telekom,0,False,3000
 20000,Telekom,0,True,1895
 20000,Vodafone,0,False,1999
-20000,Vodafone,0,True,1599
+20000,Vodafone,0,True,1595
 20000,Vodafone,27,True,2145
 22000,Telefónica,0,True,1971
 24000,Telefónica,0,True,3999
 24000,Telekom,0,True,5357
 24000,Telekom,27,True,2982
 24000,Vodafone,27,True,2249
-25000,Telekom,0,True,2995
+25000,Telekom,0,True,2032
 26000,Telekom,0,True,1895
 30000,Telekom,0,False,2146
 30000,Telekom,0,True,1979
