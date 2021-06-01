@@ -46,7 +46,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 532,Crash,Minuten Tarif 2 GB,Telekom,0,2000,25000,0,9,False,9,False,24,month
 541,Crash,Smartphone Flat 2 GB LTE,Vodafone,0,2000,21600,0,9,False,9,False,24,month
 571,sim.de,LTE All 500 MB,Telefónica,0,500,50000,0,0,True,0,True,24,month
-591,blau,Allnet L + 1 GB,Telefónica,0,4000,21600,0,0,True,0,True,24,month
 607,eteleon,LTE National 1000,Telefónica,0,1000,21600,0,0,True,0,True,24,month
 620,Crash,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,0,True,0,True,24,month
 621,maXXim,LTE 1000,Telefónica,0,1000,21600,0,0,True,0,True,24,month
@@ -60,6 +59,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 671,smartmobil.de,LTE 3 GB,Telefónica,0,3000,50000,0,0,True,0,True,24,month
 682,freenet Mobile,Daten Flat 5 GB LTE,Vodafone,0,5000,50000,0,0,False,9,False,1,month
 682,freenet Mobile,Minuten Tarif 2 GB,Vodafone,0,2000,21600,0,9,False,9,False,1,month
+691,blau,Allnet L + 3 GB,Telefónica,0,6000,21600,0,0,True,0,True,24,month
 703,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,0,True,0,True,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 749,blau,Allnet L + 4 GB,Telefónica,0,7000,21600,0,0,True,0,True,24,month
@@ -82,7 +82,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 854,HIGH,HIGH 3 LTE 25,Telekom,0,3000,25000,0,0,True,0,True,24,month
 854,goood,LTE 5000 + 1 GB,Telefónica,0,6000,50000,0,0,True,0,True,24,month
 871,PremiumSIM,LTE XL,Telefónica,0,8000,50000,0,0,True,0,True,24,month
-887,blau,Allnet XL + 4 GB,Telefónica,0,9000,21600,0,0,True,0,True,24,month
 890,wilhelm.tel.Mobil,Mobil Allnet Smart,Telefónica,0,3000,21000,0,0,True,0,True,1,month
 895,HIGH,HIGH 3 + 2 LTE 25,Telekom,0,5000,25000,0,0,True,0,True,24,month
 895,WOBCOM,Smart,Telefónica,0,2000,21600,0,10,False,10,False,12,month
@@ -130,6 +129,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1091,allmobil,Flat L,Vodafone,0,4000,21600,0,0,True,0,True,24,month
 1099,TELE2,LTE Allnet-Flat M,Vodafone,0,5000,21600,0,0,True,0,True,24,month
 1099,goood,Allnet-Flat Go,Vodafone,0,3000,50000,0,0,True,0,True,24,month
+1103,blau,Allnet Plus + 3 GB,Telefónica,0,11000,21600,0,0,True,0,True,24,month
 1104,congstar,Allnet Flat S Flex 2 GB,Telekom,0,2000,25000,0,0,True,0,True,1,month
 1124,freenet Mobile,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,0,True,0,True,1,month
 1127,Tchibo,Data S,Telefónica,0,4000,21600,0,9,False,9,False,28,day

@@ -41,12 +41,11 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 482,freenet Mobile,Minuten Tarif 1 GB,Telekom,0,1000,25000,0,9,False,9,False,1,month
 496,OTELO,Smart S,Vodafone,0,450,21600,0,9,False,9,False,28,day
 499,callmobile,cleverSMART 750,Telekom,0,750,25000,0,9,False,9,False,24,month
-511,Penny Mobil,Prepaid Basic,Telekom,0,1000,25000,0,9,False,9,False,28,day
+511,ja! mobil,Prepaid Basic,Telekom,0,1000,25000,0,9,False,9,False,28,day
 512,congstar,Prepaid Basic S,Telekom,0,500,25000,0,9,False,9,False,28,day
 532,Crash,Minuten Tarif 2 GB,Telekom,0,2000,25000,0,9,False,9,False,24,month
 541,Crash,Smartphone Flat 2 GB LTE,Vodafone,0,2000,21600,0,9,False,9,False,24,month
 571,sim.de,LTE All 500 MB,Telefónica,0,500,50000,0,0,True,0,True,24,month
-591,blau,Allnet L + 1 GB,o2,0,4000,21600,0,0,True,0,True,24,month
 607,eteleon,LTE National 1000,Telefónica,0,1000,21600,0,0,True,0,True,24,month
 620,Crash,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,0,True,0,True,24,month
 621,maXXim,LTE 1000,Telefónica,0,1000,21600,0,0,True,0,True,24,month
@@ -56,10 +55,11 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 661,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,0,True,0,True,24,month
 671,simplytel,LTE 5000 + 1 GB,Telefónica,0,6000,50000,0,0,True,0,True,24,month
 671,smartmobil.de,LTE 3 GB,Telefónica,0,3000,50000,0,0,True,0,True,24,month
-671,web.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,0,True,0,True,24,month
+671,gmx.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 671,galaxyexperte.de,LTE All 1 GB,Telefónica,0,1000,50000,0,0,True,0,True,24,month
 682,freenet Mobile,Daten Flat 5 GB LTE,Vodafone,0,5000,50000,0,0,False,9,False,1,month
 682,freenet Mobile,Minuten Tarif 2 GB,Vodafone,0,2000,21600,0,9,False,9,False,1,month
+691,blau,Allnet L + 3 GB,o2,0,6000,21600,0,0,True,0,True,24,month
 703,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,0,True,0,True,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,0,True,0,True,24,month
 749,sim.de,LTE All 6 GB + 1 GB,Telefónica,0,7000,50000,0,0,True,0,True,24,month
@@ -82,7 +82,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 854,HIGH,HIGH 3 LTE 25,Telekom,0,3000,25000,0,0,True,0,True,24,month
 854,goood,LTE 5000 + 1 GB,Telefónica,0,6000,50000,0,0,True,0,True,24,month
 871,PremiumSIM,LTE XL,Telefónica,0,8000,50000,0,0,True,0,True,24,month
-887,blau,Allnet XL + 4 GB,o2,0,9000,21600,0,0,True,0,True,24,month
 890,wilhelm.tel.Mobil,Mobil Allnet Smart,Telefónica,0,3000,21000,0,0,True,0,True,1,month
 895,HIGH,HIGH 3 + 2 LTE 25,Telekom,0,5000,25000,0,0,True,0,True,24,month
 895,WOBCOM,Smart,Telefónica,0,2000,21600,0,10,False,10,False,12,month
@@ -93,10 +92,10 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 939,Vodafone,CallYa Allnet Flat S,Vodafone,0,3000,500000,0,0,True,0,True,28,day
 957,OTELO,Allnet-Flat Classic,Vodafone,0,10000,21600,0,0,True,0,True,24,month
 961,MegaSim,Allnet 10 GB LTE,Telefónica,0,10000,50000,0,0,True,0,True,24,month
-961,WhatsApp SIM,WhatsAll 4000,Telefónica,0,10,21600,0,9,False,9,False,28,day
+961,WhatsApp SIM,WhatsAll 4000,Telefónica,0,4000,21600,0,9,False,9,False,28,day
 971,winSIM,LTE All 10 GB,Telefónica,0,10000,50000,0,0,True,0,True,24,month
 971,sim.de,LTE All 4 GB,Telefónica,0,4000,50000,0,0,True,0,True,24,month
-971,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,0,True,0,True,24,month
+971,web.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,0,True,0,True,24,month
 971,winSIM,LTE Internet 6 GB,Telefónica,0,6000,50000,0,19,False,19,False,24,month
 977,o2,my Prepaid S,o2,0,3500,25000,0,0,True,0,True,28,day
 977,FONIC,Smart 3 GB,Telefónica,0,3000,21600,0,0,True,0,True,28,day
@@ -130,6 +129,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1091,allmobil,Flat L,Vodafone,0,4000,21600,0,0,True,0,True,24,month
 1099,TELE2,LTE Allnet-Flat M,Vodafone,0,5000,21600,0,0,True,0,True,24,month
 1099,goood,Allnet-Flat Go,Vodafone,0,3000,50000,0,0,True,0,True,24,month
+1103,blau,Allnet Plus + 3 GB,o2,0,11000,21600,0,0,True,0,True,24,month
 1104,congstar,Allnet Flat S Flex 2 GB,Telekom,0,2000,25000,0,0,True,0,True,1,month
 1124,freenet Mobile,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,0,True,0,True,1,month
 1127,Tchibo,Data S,Telefónica,0,4000,21600,0,9,False,9,False,28,day
@@ -252,7 +252,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2041,Vodafone,DataGo L,Vodafone,0,16000,500000,0,0,False,19,False,24,month
 2042,WEtell,Mittelwelle,Vodafone,0,5000,21600,0,0,True,0,True,1,month
 2064,o2,my Prepaid L,o2,0,12500,25000,0,0,True,0,True,28,day
-2088,ja! mobil,Prepaid Smart Max,Telekom,0,12000,25000,0,0,True,0,True,28,day
+2088,Penny Mobil,Prepaid Smart Max,Telekom,0,12000,25000,0,0,True,0,True,28,day
 2096,yourfone,LTE 20 GB,Telefónica,0,20000,50000,0,0,True,9,False,24,month
 2103,Vodafone,Red XS,Vodafone,0,4000,500000,0,0,True,0,True,24,month
 2109,NORMA Connect,Smart L,Telekom,0,12000,25000,0,0,True,0,True,28,day
