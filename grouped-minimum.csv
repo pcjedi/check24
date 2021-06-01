@@ -11,7 +11,6 @@ tariff.internet.traffic.value,tariff.network.name,tariff.ageCheck,24m,pricelayer
 450,Vodafone,0,False,496
 500,Telefónica,0,True,571
 500,Telekom,0,False,512
-750,Telekom,0,False,511
 750,Telekom,0,True,499
 750,Vodafone,0,False,221
 1000,Telefónica,0,False,418
