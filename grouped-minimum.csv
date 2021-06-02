@@ -43,7 +43,7 @@ tariff.internet.traffic.value,tariff.network.name,tariff.ageCheck,24m,pricelayer
 4000,Telekom,0,False,1146
 4000,Telekom,0,True,1063
 4000,Vodafone,0,True,1091
-5000,Telefónica,0,True,1012
+5000,Telefónica,0,True,1020
 5000,Telekom,0,False,1566
 5000,Telekom,0,True,841
 5000,Vodafone,0,False,682

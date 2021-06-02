@@ -109,7 +109,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 999,klarmobil,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,0,True,0,True,1,month
 1006,Telekom,Magenta Mobil Prepaid M,Telekom,0,2000,300000,0,9,False,9,False,28,day
 1007,mobilcom debitel,o2 Free S,Telefónica,0,3000,225000,0,0,True,0,True,24,month
-1012,BILDconnect,Flat LTE L,Telefónica,0,5000,50000,0,0,True,0,True,24,month
 1014,easyTel,Smart Tarif,Telekom,0,1500,21600,0,9,False,9,False,30,day
 1020,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,0,True,0,True,1,month
 1020,yourfone,LTE 5 GB,Telefónica,0,5000,50000,0,0,True,9,False,24,month
@@ -157,6 +156,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1266,Crash,Allnet Flat 12 GB LTE,Vodafone,0,12000,50000,0,0,True,0,True,24,month
 1266,MegaSim,green LTE 6 GB,Telekom,0,6000,21600,0,0,True,19,False,24,month
 1270,M-Net Mobil,Allnet-LTE S,Telefónica,0,2000,21100,0,0,True,0,True,24,month
+1271,galaxyexperte.de,LTE All 5 GB,Telefónica,0,5000,50000,0,0,True,0,True,24,month
 1278,MegaSim,Allnet 9 GB LTE,Telefónica,0,9000,21600,0,0,True,0,True,1,month
 1282,freenet Mobile,Daten Flat 10 GB LTE,Vodafone,0,10000,50000,0,0,False,9,False,1,month
 1295,Telekom,Magenta Mobil S Young,Telekom,0,9000,300000,27,0,True,0,True,24,month
