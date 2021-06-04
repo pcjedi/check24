@@ -18,10 +18,10 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 -42,congstar,Prepaid wie ich will,Telekom,1,0,25000,0,9,False,9,False,0,day
 -21,ja! mobil,Easy,Telekom,2,0,25000,0,9,False,9,False,0,day
 0,Lycamobile,SMART Tarif,Vodafone,15,0,42000,0,12,False,7,False,0,day
+0,Mobilka,SIMka,Telekom,19,0,7200,0,24,False,15,False,0,day
 0,o2,my Prepaid 9 Ct.,Telefónica,0,30,225000,0,9,False,9,False,28,day
 0,yourfone,LTE Prepaid,Telefónica,8,0,21600,0,8,False,8,False,0,day
 21,n-tv,Prepaid 6 Cent,Telefónica,6,0,2160,0,6,False,6,False,0,day
-41,Mobilka,SIMka,Telekom,19,0,7200,0,24,False,15,False,0,day
 42,Lebara,Prepaid SIM,Telekom,19,0,7200,0,24,False,15,False,0,day
 42,Lufthansa Mobile,Prepaid-Tarif,Telefónica,5,0,21600,0,9,False,9,False,0,day
 62,Tchibo,Prepaid-Tarif,Telefónica,24,0,21600,0,9,False,9,False,0,day
@@ -154,7 +154,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1261,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,21600,0,0,True,0,True,1,month
 1266,Crash,Allnet Flat 12 GB LTE,Vodafone,0,12000,50000,0,0,True,0,True,24,month
 1266,MegaSim,green LTE 6 GB,Telekom,0,6000,21600,0,0,True,19,False,24,month
-1270,M-Net Mobil,Allnet-LTE S,Telefónica,0,2000,21100,0,0,True,0,True,24,month
 1271,galaxyexperte.de,LTE All 5 GB,Telefónica,0,5000,50000,0,0,True,0,True,24,month
 1278,MegaSim,Allnet 9 GB LTE,Telefónica,0,9000,21600,0,0,True,0,True,1,month
 1282,freenet Mobile,Daten Flat 10 GB LTE,Vodafone,0,10000,50000,0,0,False,9,False,1,month
@@ -163,6 +162,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1303,mobilcom debitel,green LTE 10 GB,Telekom,0,10000,21600,0,0,True,19,False,24,month
 1307,ALDI TALK,Paket M,Telefónica,0,6000,21600,0,0,True,0,True,28,day
 1307,Lidl Connect,Smart L,Vodafone,0,6000,25000,0,0,True,0,True,28,day
+1332,M-Net Mobil,Allnet-LTE S,Telefónica,0,5000,21100,0,0,True,0,True,24,month
 1357,blau,Allnet XL Flex,Telefónica,0,9000,21600,0,0,True,0,True,1,month
 1357,ja! mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,0,True,0,True,28,day
 1369,NORMA Connect,Smart M,Telekom,0,6000,25000,0,0,True,0,True,28,day
