@@ -81,8 +81,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 854,HIGH,HIGH 3 LTE 25,Telekom,0,3000,25000,0,0,True,0,True,24,month
 854,goood,LTE 5000 + 1 GB,Telefónica,0,6000,50000,0,0,True,0,True,24,month
 871,simplytel,LTE 5000 + 3 GB,Telefónica,0,8000,50000,0,0,True,0,True,24,month
-887,blau,Allnet XL + 4 GB,Telefónica,0,9000,21600,0,0,True,0,True,24,month
 890,wilhelm.tel.Mobil,Mobil Allnet Smart,Telefónica,0,3000,21000,0,0,True,0,True,1,month
+891,blau,Allnet XL + 3 GB,Telefónica,0,8000,21600,0,0,True,0,True,24,month
 895,HIGH,HIGH 3 + 2 LTE 25,Telekom,0,5000,25000,0,0,True,0,True,24,month
 895,WOBCOM,Smart,Telefónica,0,2000,21600,0,10,False,10,False,12,month
 896,htp,Mobil Smart LTE,Telefónica,0,2000,21600,0,15,False,15,False,24,month
@@ -93,7 +93,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 954,o2,my Prepaid S,Telefónica,0,3500,25000,0,0,True,0,True,28,day
 957,OTELO,Allnet-Flat Classic,Vodafone,0,10000,21600,0,0,True,0,True,24,month
 961,MegaSim,Allnet 10 GB LTE,Telefónica,0,10000,50000,0,0,True,0,True,24,month
-961,WhatsApp SIM,WhatsAll 4000,Telefónica,0,4000,21600,0,9,False,9,False,28,day
 971,PremiumSIM,LTE L,Telefónica,0,10000,50000,0,0,True,0,True,24,month
 971,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,0,True,0,True,24,month
 971,winSIM,LTE Internet 6 GB,Telefónica,0,6000,50000,0,19,False,19,False,24,month
@@ -126,7 +125,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1096,yourfone,LTE 5 GB,Telefónica,0,5000,50000,0,0,True,9,False,24,month
 1099,TELE2,LTE Allnet-Flat M,Vodafone,0,5000,21600,0,0,True,0,True,24,month
 1099,goood,Allnet-Flat Go,Vodafone,0,3000,50000,0,0,True,0,True,24,month
-1103,blau,Allnet Plus + 3 GB,Telefónica,0,11000,21600,0,0,True,0,True,24,month
 1104,congstar,Allnet Flat S Flex 2 GB,Telekom,0,2000,25000,0,0,True,0,True,1,month
 1124,freenet Mobile,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,0,True,0,True,1,month
 1127,Tchibo,Data S,Telefónica,0,4000,21600,0,9,False,9,False,28,day
@@ -138,7 +136,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1171,gmx.de,All-Net Flat LTE 9 GB,Telefónica,0,9000,21600,0,0,True,0,True,24,month
 1171,smartmobil.de,LTE 5 + 4 GB,Telefónica,0,9000,50000,0,0,True,0,True,24,month
 1182,Crash,Allnet Flat 5 GB LTE 50,Telekom,0,5000,50000,0,0,True,0,True,24,month
-1182,blau,Allnet Plus + 4 GB,Telefónica,0,12000,21600,0,0,True,0,True,24,month
 1199,callmobile,cleverALLNET 3000,Telekom,0,3000,25000,0,0,True,0,True,24,month
 1203,Crash,Allnet Flat 10 GB LTE 25,Telekom,0,10000,25000,0,0,True,0,True,24,month
 1207,eteleon,LTE National 5000,Telefónica,0,5000,21600,0,0,True,0,True,24,month
@@ -174,6 +171,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1471,winSIM,LTE Internet 15 GB,Telefónica,0,15000,50000,0,19,False,19,False,24,month
 1478,MegaSim,Allnet 10 GB LTE,Telefónica,0,10000,50000,0,0,True,0,True,1,month
 1482,Vodafone,CallYa Allnet Flat M,Vodafone,0,5000,500000,0,0,True,0,True,28,day
+1482,blau,Allnet Plus + 6 GB,Telefónica,0,14000,21600,0,0,True,0,True,24,month
 1486,o2,my Prepaid M,Telefónica,0,6500,25000,0,0,True,0,True,28,day
 1499,OTELO,Allnet-Flat Classic,Vodafone,0,10000,50000,0,0,True,0,True,24,month
 1499,klarmobil,Allnet Flat 10 GB LTE,Vodafone,0,10000,21600,0,0,True,0,True,1,month
@@ -229,7 +227,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1907,eteleon,LTE National 8000,Telefónica,0,8000,21600,0,0,True,0,True,24,month
 1912,blau,Allnet L,Telefónica,0,12000,25000,0,0,True,0,True,28,day
 1928,mobilcom debitel,Red XS,Vodafone,0,4000,500000,0,0,True,0,True,24,month
-1971,sim.de,LTE All 20 GB,Telefónica,0,20000,50000,0,0,True,0,True,24,month
+1971,winSIM,LTE All 20 GB,Telefónica,0,20000,50000,0,0,True,0,True,24,month
 1971,winSIM,LTE Internet 22 GB,Telefónica,0,22000,50000,0,19,False,19,False,24,month
 1973,primacall,Allnet Flat,Telefónica,0,500,7200,0,0,True,9,False,24,month
 1979,congstar,Homespot 30,Telekom,0,30000,50000,0,0,False,9,False,24,month
