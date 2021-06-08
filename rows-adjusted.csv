@@ -45,7 +45,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 511,ja! mobil,Prepaid Basic,Telekom,0,1000,25000,0,9,False,9,False,28,day
 512,congstar,Prepaid Basic S,Telekom,0,500,25000,0,9,False,9,False,28,day
 532,Crash,Minuten Tarif 2 GB,Telekom,0,2000,25000,0,9,False,9,False,24,month
-561,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,0,True,0,True,24,month
 571,sim.de,LTE All 500 MB,Telefónica,0,500,50000,0,0,True,0,True,24,month
 571,simplytel,LTE 3000 + 1 GB,Telefónica,0,4000,50000,0,0,True,0,True,24,month
 587,blau,Allnet L + 3 GB,Telefónica,0,6000,21600,0,0,True,0,True,24,month
@@ -56,6 +55,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 626,FYVE,Smart XS,Vodafone,0,1000,21600,0,9,False,9,False,1,month
 655,Lidl Connect,Data M,Vodafone,0,3000,25000,0,9,False,9,False,28,day
 657,klarmobil,Daten Flat 5 GB LTE,Vodafone,0,5000,50000,0,0,False,9,False,24,month
+661,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,0,True,0,True,24,month
 671,PremiumSIM,LTE S,Telefónica,0,2000,50000,0,0,True,0,True,24,month
 671,galaxyexperte.de,LTE All 1 GB,Telefónica,0,1000,50000,0,0,True,0,True,24,month
 671,gmx.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,0,True,0,True,24,month
