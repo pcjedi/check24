@@ -16,7 +16,7 @@ jobs:
       with:
         token: ${{secrets.PAT}}
     - run: >- 
-        curl "https://pub-api.handytarife.check24.de/v1/desktop/result/collection/sim?
+        curl 'https://pub-api.handytarife.check24.de/v1/desktop/result/collection/sim?
           bullet_sort_split=4&
           network_tmobile=yes&
           network_vodafone=yes&
@@ -36,7 +36,7 @@ jobs:
           with_data_tariffs=all&
           only_bookable_tariffs=no&
           fixed_traffic_automatic=egal&
-          sms_included=all" | jq . > rows.json
+          sms_included=all' | jq . > rows.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
