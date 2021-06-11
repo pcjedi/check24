@@ -20,7 +20,6 @@ core = [
   "tariffOverview.internet.pricePerUnit.price.amount",
   "tariffOverview.internet.traffic.value",
   "tariffOverview.internet.speed.value",
-  "tariffOverview.ageCheck",
   "tariffOverview.voice.highestPrice.amount",
   "tariffOverview.voice.flatrate",
   "tariffOverview.sms.highestPrice.amount",
@@ -68,7 +67,6 @@ if args.check24adjusted:
   df_core.groupby([
         "tariff.internet.traffic.value", 
         "tariff.network.name", 
-        "tariff.ageCheck", 
         "24m"
   ])[
       "pricelayer.prices.effective.amount"
