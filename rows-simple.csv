@@ -10,7 +10,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 661,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,24,month
 661,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,True,0,True,24,month
 671,PremiumSIM,LTE S,Telefónica,0,2000,50000,0,True,0,True,24,month
-671,web.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,True,0,True,24,month
+671,gmx.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,True,0,True,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,True,0,True,24,month
 764,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,True,0,True,28,day
 764,ALDI TALK,Paket S,Telefónica,0,3000,21600,0,True,0,True,28,day
@@ -36,7 +36,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 939,Vodafone,CallYa Allnet Flat S,Vodafone,0,3000,500000,0,True,0,True,28,day
 954,o2,my Prepaid S,o2,0,3500,25000,0,True,0,True,28,day
 961,MegaSim,Allnet 10 GB LTE,Telefónica,0,10000,50000,0,True,0,True,24,month
-971,web.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,True,0,True,24,month
+971,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,True,0,True,24,month
 971,PremiumSIM,LTE L,Telefónica,0,10000,50000,0,True,0,True,24,month
 977,FONIC,Smart 3 GB,Telefónica,0,3000,21600,0,True,0,True,28,day
 982,blau,Allnet Plus + 2 GB,o2,0,10000,21600,0,True,0,True,24,month
@@ -64,7 +64,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1165,Media Markt,Super Select S,Telefónica,0,6000,50000,0,True,0,True,24,month
 1165,Saturn,Super Select S,Telefónica,0,6000,50000,0,True,0,True,24,month
 1171,smartmobil.de,LTE 5 + 4 GB,Telefónica,0,9000,50000,0,True,0,True,24,month
-1171,web.de,All-Net Flat LTE 9 GB,Telefónica,0,9000,21600,0,True,0,True,24,month
+1171,gmx.de,All-Net Flat LTE 9 GB,Telefónica,0,9000,21600,0,True,0,True,24,month
 1179,congstar,Allnet Flat S Flex,Telekom,0,3000,25000,0,True,0,True,1,month
 1182,Crash,Allnet Flat 5 GB LTE 50,Telekom,0,5000,50000,0,True,0,True,24,month
 1199,callmobile,cleverALLNET 3000,Telekom,0,3000,25000,0,True,0,True,24,month
@@ -120,7 +120,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1707,FONIC,Smart 6 GB,Telefónica,0,6000,21600,0,True,0,True,28,day
 1741,freenet Mobile,Allnet Flat 15 GB LTE,Vodafone,0,15000,50000,0,True,0,True,12,month
 1790,1&1,All-Net-Flat LTE S,Telefónica,0,5000,50000,0,True,0,True,24,month
-1791,FYVE,Allnet-Flat Classic,Vodafone,0,10000,50000,0,True,0,True,24,month
 1799,klarmobil,Allnet Flat 15 GB LTE,Vodafone,0,15000,21600,0,True,0,True,1,month
 1824,freenet Mobile,Allnet Flat 15 GB LTE,Vodafone,0,15000,50000,0,True,0,True,1,month
 1850,Lidl Connect,Smart XL,Vodafone,0,12000,25000,0,True,0,True,28,day
@@ -172,7 +171,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 2666,o2,Blue All-In M 18 GB,o2,0,18000,50000,0,True,0,True,24,month
 2666,o2,Free S Flex,o2,0,3000,225000,0,True,0,True,1,month
 2668,EDEKA smart,kombi XL,Telekom,0,5000,300000,0,True,0,True,28,day
-2770,FYVE,Allnet-Flat Max,Vodafone,0,20000,50000,0,True,0,True,24,month
 2771,congstar,Allnet Flat L,Telekom,0,20000,25000,0,True,0,True,24,month
 2812,Vodafone,Red S,Vodafone,0,10000,500000,0,True,0,True,24,month
 2814,FCB Mobil,FCB Mobil M,Telekom,0,11000,300000,0,True,0,True,24,month
@@ -201,8 +199,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 3666,o2,Free Unlimited Basic Flex,o2,0,9999000,2000,0,True,0,True,1,month
 3916,o2,Free L Boost,o2,0,120000,300000,0,True,0,True,24,month
 3957,mobilcom debitel,Red M,Vodafone,0,20000,500000,0,True,0,True,24,month
-4165,Saturn,Super Select XL,Telefónica,0,12000,50000,0,True,0,True,24,month
 4165,Media Markt,Super Select XL,Telefónica,0,12000,50000,0,True,0,True,24,month
+4165,Saturn,Super Select XL,Telefónica,0,12000,50000,0,True,0,True,24,month
 4166,mobilcom debitel,o2 Free Unlimited Max,o2,0,9999000,225000,0,True,0,True,1,month
 4253,Telekom,Magenta Mobil M,Telekom,0,12000,300000,0,True,0,True,24,month
 4395,Vodafone,Red L,Vodafone,0,40000,500000,0,True,0,True,24,month
