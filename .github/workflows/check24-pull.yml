@@ -15,7 +15,28 @@ jobs:
     - uses: actions/checkout@v2
       with:
         token: ${{secrets.PAT}}
-    - run: curl "https://pub-api.handytarife.check24.de/v1/desktop/result/collection/sim?bullet_sort_split=4&network_tmobile=yes&network_vodafone=yes&network_o2=yes&data_included=0&minutes_included=all&rnp=egal&tariff_type=all&select_contract=-24&data_speed=0&maximum_effective_price=egal&provider_restriction=&5g=all&young_tariff=all&tariff_activation_date=no&hardware_nature=40&with_data_tariffs=all&only_bookable_tariffs=no&fixed_traffic_automatic=egal&sms_included=all&orderby=effective_price&request_extended_advertisements=true&_EXP0013=b" | jq . > rows.json
+    - run: >- 
+        curl "https://pub-api.handytarife.check24.de/v1/desktop/result/collection/sim?
+          bullet_sort_split=4&
+          network_tmobile=yes&
+          network_vodafone=yes&
+          network_o2=yes&
+          data_included=0&
+          minutes_included=all&
+          rnp=egal&
+          tariff_type=all&
+          select_contract=-24&
+          data_speed=0&
+          maximum_effective_price=egal&
+          provider_restriction=&
+          5g=all&
+          young_tariff=no&
+          tariff_activation_date=no&
+          hardware_nature=40&
+          with_data_tariffs=all&
+          only_bookable_tariffs=no&
+          fixed_traffic_automatic=egal&
+          sms_included=all" | jq . > rows.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
