@@ -38,14 +38,14 @@ if args.check24all:
 
 if args.check24adjusted:
   df_core = df[core]
-  df_core.loc[df_core["tariff.names.default"]=="WhatsAll 4000", "tariff.internet.traffic.value"] = 4000
+  df_core.loc[df_core["tariffOverview.names.default"]=="WhatsAll 4000", "tariffOverview.internet.traffic.value"] = 4000
   df_core = df_core.replace(
     to_replace = {
       'pricelayer.provider.name': {
         "web.de": "gmx.de",
         "Penny Mobil": "ja! mobil"
       },
-      'tariff.network.name': {
+      'tariffOverview.network.name': {
         "o2": "Telefónica"
       }
     }
@@ -60,13 +60,13 @@ if args.check24adjusted:
   # df_core = df_core[df_core["tariff.internet.pricePerUnit.price.amount"]==0]
   df_core["24m"] = False
   df_core.loc[
-    (df_core["tariff.contract.periods.contract.value"] == 24) & 
-    (df_core["tariff.contract.periods.contract.unit"] == "month"), 
+    (df_core["tariffOverview.contract.periods.contract.value"] == 24) & 
+    (df_core["tariffOverview.contract.periods.contract.unit"] == "month"), 
     "24m"
   ] = True
   df_core.groupby([
-        "tariff.internet.traffic.value", 
-        "tariff.network.name", 
+        "tariffOverview.internet.traffic.value", 
+        "tariffOverview.network.name", 
         "24m"
   ])[
       "pricelayer.prices.effective.amount"
