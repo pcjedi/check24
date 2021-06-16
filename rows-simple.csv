@@ -9,7 +9,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 661,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,24,month
 661,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,True,0,True,24,month
 671,smartmobil.de,LTE 3 GB,Telefónica,0,3000,50000,0,True,0,True,24,month
-671,web.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,True,0,True,24,month
+671,gmx.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,True,0,True,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,True,0,True,24,month
 764,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,True,0,True,28,day
 764,ALDI TALK,Paket S,Telefónica,0,3000,21600,0,True,0,True,28,day
@@ -37,12 +37,13 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 957,OTELO,Allnet-Flat Classic,Vodafone,0,15000,21600,0,True,0,True,24,month
 961,MegaSim,Allnet 10 GB LTE,Telefónica,0,10000,50000,0,True,0,True,24,month
 971,handyvertrag.de,LTE All 10 GB,Telefónica,0,10000,50000,0,True,0,True,24,month
-971,web.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,True,0,True,24,month
+971,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,True,0,True,24,month
 977,FONIC,Smart 3 GB,Telefónica,0,3000,21600,0,True,0,True,28,day
 982,blau,Allnet Plus + 2 GB,o2,0,10000,21600,0,True,0,True,24,month
 999,klarmobil,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,True,0,True,1,month
 999,mobilcom debitel,green LTE 10 GB,Telekom,0,10000,21600,0,True,19,False,24,month
 999,Ay Yildiz,Ay Allnet,Telefónica,0,6000,21600,0,True,12,False,24,month
+1002,Tchibo,Smart L,Telefónica,0,6000,25000,0,True,0,True,28,day
 1003,congstar,Prepaid Allnet M,Telekom,0,3000,25000,0,True,9,False,28,day
 1007,mobilcom debitel,o2 Free S,o2,0,3000,225000,0,True,0,True,24,month
 1020,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,True,0,True,1,month
@@ -59,7 +60,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1099,goood,Allnet-Flat Go,Vodafone,0,3000,50000,0,True,0,True,24,month
 1103,blau,Allnet Plus + 3 GB,o2,0,11000,21600,0,True,0,True,24,month
 1104,congstar,Allnet Flat S Flex 2 GB,Telekom,0,2000,25000,0,True,0,True,1,month
-1106,Tchibo,Smart L,Telefónica,0,6000,25000,0,True,0,True,28,day
 1124,freenet Mobile,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,1,month
 1145,HIGH,HIGH 3 + 2 LTE 50,Telekom,0,5000,50000,0,True,0,True,24,month
 1145,MegaSim,Allnet 9 GB LTE,Telefónica,0,9000,21600,0,True,0,True,24,month
