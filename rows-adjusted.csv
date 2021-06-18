@@ -210,9 +210,9 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 4921,congstar,congstar X,Telekom,0,200000,50000,0,True,0,True,24,month
 4928,mobilcom debitel,Red L,Vodafone,0,40000,500000,0,True,0,True,24,month
 5004,congstar,congstar X Flex,Telekom,0,200000,50000,0,True,0,True,1,month
-5290,1&1,All-Net-Flat 5G XXL,Telefónica,0,9999000,300000,0,True,0,True,24,month
 5357,Telekom,Magenta Mobil L,Telekom,0,24000,300000,0,True,0,True,24,month
 5582,o2,Free Unlimited Max,Telefónica,0,9999000,500000,0,True,0,True,24,month
+6040,1&1,All-Net-Flat 5G XXL,Telefónica,0,9999000,500000,0,True,0,True,24,month
 6428,mobilcom debitel,Red XL,Vodafone,0,9999000,500000,0,True,0,True,24,month
 6666,o2,Free Unlimited Max Flex,Telefónica,0,9999000,500000,0,True,0,True,1,month
 7795,Telekom,Magenta Mobil XL,Telekom,0,9999000,300000,0,True,0,True,24,month
