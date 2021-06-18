@@ -19,7 +19,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 778,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,True,0,True,1,month
 799,mobilcom debitel,green LTE 10 GB,Vodafone,0,10000,50000,0,True,19,False,24,month
 824,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,50000,0,True,0,True,24,month
-826,Kaufland Mobil,Smart S,Telekom,1,3000,25000,0,True,0,True,28,day
 826,blau,Allnet S,Telefónica,0,3000,25000,0,True,0,True,28,day
 833,allmobil,Flat M,Vodafone,0,2000,21600,0,True,0,True,24,month
 841,Crash,Allnet Flat 5 GB LTE 25,Telekom,0,5000,25000,0,True,0,True,24,month
