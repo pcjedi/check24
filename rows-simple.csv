@@ -202,8 +202,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 3666,o2,Free Unlimited Basic Flex,o2,0,9999000,2000,0,True,0,True,1,month
 3916,o2,Free L Boost,o2,0,120000,300000,0,True,0,True,24,month
 3957,mobilcom debitel,Red M,Vodafone,0,20000,500000,0,True,0,True,24,month
-4165,Media Markt,Super Select XL,Telefónica,0,12000,50000,0,True,0,True,24,month
 4165,Saturn,Super Select XL,Telefónica,0,12000,50000,0,True,0,True,24,month
+4165,Media Markt,Super Select XL,Telefónica,0,12000,50000,0,True,0,True,24,month
 4253,Telekom,Magenta Mobil M,Telekom,0,12000,300000,0,True,0,True,24,month
 4666,o2,Free L Flex,o2,0,60000,300000,0,True,0,True,1,month
 4666,o2,Free Unlimited Smart Flex,o2,0,9999000,10000,0,True,0,True,1,month
