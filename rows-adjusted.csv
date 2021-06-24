@@ -71,6 +71,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1179,congstar,Allnet Flat S Flex,Telekom,0,3000,25000,0,True,0,True,1,month
 1182,Crash,Allnet Flat 5 GB LTE 50,Telekom,0,5000,50000,0,True,0,True,24,month
 1199,callmobile,cleverALLNET 3000,Telekom,0,3000,25000,0,True,0,True,24,month
+1203,Crash,Allnet Flat 10 GB LTE 50,Telekom,0,10000,50000,0,True,0,True,24,month
 1203,Crash,Allnet Flat 12 GB LTE,Vodafone,0,12000,50000,0,True,0,True,24,month
 1207,eteleon,LTE National 5000,Telefónica,0,5000,21600,0,True,0,True,24,month
 1212,mobilcom debitel,o2 Now,Telefónica,0,3000,225000,0,True,9,False,24,month
