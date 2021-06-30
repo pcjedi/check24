@@ -123,7 +123,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1707,Crash,Allnet Flat 15 GB LTE 25,Telekom,0,15000,25000,0,True,0,True,24,month
 1707,FONIC,Smart 6 GB,Telefónica,0,6000,21600,0,True,0,True,28,day
 1741,freenet Mobile,Allnet Flat 15 GB LTE,Vodafone,0,15000,50000,0,True,0,True,12,month
-1790,1&1,All-Net-Flat LTE S,Telefónica,0,5000,50000,0,True,0,True,24,month
+1790,1&1,All-Net-Flat LTE S,Telefónica,0,3000,50000,0,True,0,True,24,month
 1799,klarmobil,Allnet Flat 15 GB LTE,Vodafone,0,15000,21600,0,True,0,True,1,month
 1824,Crash,Allnet Flat 25 GB LTE,Vodafone,0,25000,21600,0,True,0,True,24,month
 1824,freenet Mobile,Allnet Flat 15 GB LTE,Vodafone,0,15000,50000,0,True,0,True,1,month
