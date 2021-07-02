@@ -96,6 +96,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1457,MegaSim,Allnet 10 GB LTE,Telefónica,0,10000,50000,0,True,0,True,1,month
 1457,blau,Allnet XL Flex,Telefónica,0,9000,25000,0,True,0,True,1,month
 1465,Media Markt,Super Select M,Telefónica,0,8000,50000,0,True,0,True,24,month
+1465,Saturn,Super Select M,Telefónica,0,8000,50000,0,True,0,True,24,month
 1470,mobilcom debitel,green LTE 20 GB,Telefónica,0,20000,225000,0,True,0,True,24,month
 1471,PremiumSIM,LTE XL,Telefónica,0,8000,50000,0,True,0,True,24,month
 1479,congstar,Fair Flat,Telekom,0,5000,25000,0,True,0,True,1,month
