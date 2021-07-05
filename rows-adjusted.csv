@@ -6,7 +6,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 571,winSIM,LTE All 3 GB,Telefónica,0,3000,50000,0,True,0,True,24,month
 591,blau,Allnet L + 2 GB,Telefónica,0,5000,25000,0,True,0,True,24,month
 620,Crash,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,True,0,True,24,month
-638,sim.de,LTE All 6 GB,Telefónica,0,6000,50000,0,True,19,False,24,month
 655,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,True,0,True,28,day
 670,blau,Allnet L + 3 GB,Telefónica,0,6000,21600,0,True,0,True,24,month
 703,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,24,month
