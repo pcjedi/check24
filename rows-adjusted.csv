@@ -8,8 +8,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 591,blau,Allnet L + 1 GB,Telefónica,0,4000,25000,0,True,0,True,24,month
 620,Crash,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,True,0,True,24,month
 655,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,True,0,True,28,day
-670,blau,Allnet L + 2 GB,Telefónica,0,5000,21600,0,True,0,True,24,month
 671,winSIM,LTE All 5 GB,Telefónica,0,5000,50000,0,True,0,True,24,month
+691,blau,Allnet L + 2 GB,Telefónica,0,5000,21600,0,True,0,True,24,month
 703,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,24,month
 703,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,True,0,True,24,month
