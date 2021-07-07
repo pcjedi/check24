@@ -30,6 +30,7 @@ tariffOverview.internet.traffic.value,tariffOverview.network.name,24m,pricelayer
 7000,Vodafone,False,1041
 7000,Vodafone,True,703
 8000,Telefónica,True,871
+8000,Telekom,False,2668
 8000,Vodafone,False,1261
 8000,Vodafone,True,824
 9000,Telefónica,False,1282
