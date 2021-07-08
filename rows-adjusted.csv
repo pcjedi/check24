@@ -179,9 +179,9 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 2666,o2,Free S Flex,Telefónica,0,3000,225000,0,True,0,True,1,month
 2668,EDEKA smart,kombi XL,Telekom,0,8000,300000,0,True,0,True,28,day
 2749,o2,Free Unlimited Basic,Telefónica,0,9999000,2000,0,True,0,True,24,month
-2771,congstar,Allnet Flat L,Telekom,0,25000,25000,0,True,0,True,24,month
 2814,FCB Mobil,FCB Mobil M,Telekom,0,11000,300000,0,True,0,True,24,month
 2841,Vodafone,Red M,Vodafone,0,20000,500000,0,True,0,True,24,month
+2875,congstar,Allnet Flat L,Telekom,0,25000,25000,0,True,0,True,24,month
 2887,mobilcom debitel,o2 Free Unlimited Max,Telefónica,0,9999000,225000,0,True,0,True,24,month
 2928,mobilcom debitel,Red S,Vodafone,0,10000,500000,0,True,0,True,24,month
 2945,mobilcom debitel,Magenta Mobil M,Telekom,0,12000,300000,0,True,0,True,24,month
