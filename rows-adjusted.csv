@@ -10,7 +10,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 661,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,True,0,True,24,month
 671,sim.de,LTE All 6 GB,Telefónica,0,6000,50000,0,True,0,True,24,month
 671,winSIM,LTE All 5 GB,Telefónica,0,5000,50000,0,True,0,True,24,month
-691,blau,Allnet L + 2 GB,Telefónica,0,5000,25000,0,True,0,True,24,month
+691,blau,Allnet L + 3 GB,Telefónica,0,6000,25000,0,True,0,True,24,month
 703,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,24,month
 703,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,True,0,True,24,month
