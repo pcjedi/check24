@@ -12,7 +12,7 @@ RUN apt-get update \
  && apt-get clean \
  && rm -rf /var/lib/apt/lists/*
  
-RUN echo '%sudo ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
+RUN echo '%gitpod ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
 
 
 RUN python -m venv /opt/venv1 && \
