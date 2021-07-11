@@ -1,3 +1,3 @@
 # FROM gitpod/workspace-full
 
-from python:3.9-alpine
+from python:3.9
