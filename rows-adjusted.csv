@@ -86,7 +86,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1307,Lidl Connect,Smart L,Vodafone,0,6000,25000,0,True,0,True,28,day
 1332,M-Net Mobil,Allnet-LTE S,Telefónica,0,5000,21100,0,True,0,True,24,month
 1357,ja! mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,True,0,True,28,day
-1369,Kaufland Mobil,Smart M,Telekom,1,6000,25000,0,True,0,True,28,day
+1369,NORMA Connect,Smart M,Telekom,0,6000,25000,0,True,0,True,28,day
 1369,blau,Allnet M,Telefónica,0,6000,25000,0,True,0,True,28,day
 1396,congstar,Fair Flat,Telekom,0,5000,25000,0,True,0,True,1,month
 1407,eteleon,LTE National 6000,Telefónica,0,6000,21600,0,True,0,True,24,month
@@ -213,7 +213,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 5357,Telekom,Magenta Mobil L,Telekom,0,24000,300000,0,True,0,True,24,month
 5582,o2,Free Unlimited Max,Telefónica,0,9999000,500000,0,True,0,True,24,month
 6021,congstar,congstar X,Telekom,0,200000,50000,0,True,0,True,24,month
-6040,1&1,All-Net-Flat 5G XXL,Telefónica,0,9999000,500000,0,True,0,True,24,month
 6104,congstar,congstar X Flex,Telekom,0,200000,50000,0,True,0,True,1,month
 6428,mobilcom debitel,Red XL,Vodafone,0,9999000,500000,0,True,0,True,24,month
 6666,o2,Free Unlimited Max Flex,Telefónica,0,9999000,500000,0,True,0,True,1,month
