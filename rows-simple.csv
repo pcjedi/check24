@@ -21,7 +21,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 791,blau,Allnet L + 4 GB,o2,0,7000,25000,0,True,0,True,24,month
 820,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,True,0,True,1,month
 824,mobilcom debitel,green LTE 8 GB,Vodafone,0,8000,50000,0,True,0,True,24,month
-826,Penny Mobil,Prepaid Smart,Telekom,0,3000,25000,0,True,0,True,28,day
+826,ja! mobil,Prepaid Smart,Telekom,0,3000,25000,0,True,0,True,28,day
 826,Kaufland Mobil,Smart S,Telekom,1,3000,25000,0,True,0,True,28,day
 826,blau,Allnet S,o2,0,3000,25000,0,True,0,True,28,day
 833,allmobil,Flat M,Vodafone,0,2000,21600,0,True,0,True,24,month
@@ -85,7 +85,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1307,Lidl Connect,Smart L,Vodafone,0,6000,25000,0,True,0,True,28,day
 1307,ALDI TALK,Paket M,Telefónica,0,6000,21600,0,True,0,True,28,day
 1332,M-Net Mobil,Allnet-LTE S,Telefónica,0,5000,21100,0,True,0,True,24,month
-1357,Penny Mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,True,0,True,28,day
+1357,ja! mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,True,0,True,28,day
 1369,Kaufland Mobil,Smart M,Telekom,1,6000,25000,0,True,0,True,28,day
 1369,blau,Allnet M,o2,0,6000,25000,0,True,0,True,28,day
 1396,congstar,Fair Flat,Telekom,0,5000,25000,0,True,0,True,1,month
@@ -218,5 +218,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 6666,o2,Free Unlimited Max Flex,o2,0,9999000,500000,0,True,0,True,1,month
 7795,Telekom,Magenta Mobil XL,Telekom,0,9999000,300000,0,True,0,True,24,month
 8292,Telekom,MagentaEINS Plus S,Telekom,0,9999000,100000,0,True,0,True,1,month
+8790,1&1,All-Net-Flat 5G XXL,Telefónica,0,9999000,500000,0,True,0,True,24,month
 9292,Telekom,MagentaEINS Plus M,Telekom,0,9999000,250000,0,True,0,True,1,month
 10252,EDEKA smart,kombi MAX,Telekom,0,9999000,300000,0,True,0,True,28,day

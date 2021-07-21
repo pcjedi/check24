@@ -218,5 +218,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 6666,o2,Free Unlimited Max Flex,Telefónica,0,9999000,500000,0,True,0,True,1,month
 7795,Telekom,Magenta Mobil XL,Telekom,0,9999000,300000,0,True,0,True,24,month
 8292,Telekom,MagentaEINS Plus S,Telekom,0,9999000,100000,0,True,0,True,1,month
+8790,1&1,All-Net-Flat 5G XXL,Telefónica,0,9999000,500000,0,True,0,True,24,month
 9292,Telekom,MagentaEINS Plus M,Telekom,0,9999000,250000,0,True,0,True,1,month
 10252,EDEKA smart,kombi MAX,Telekom,0,9999000,300000,0,True,0,True,28,day
