@@ -55,11 +55,11 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1066,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,True,0,True,24,month
 1075,congstar,Allnet Flat S,Telekom,0,3000,25000,0,True,0,True,24,month
 1082,OTELO,Allnet-Flat Go,Vodafone,0,5000,50000,0,True,0,True,24,month
-1082,blau,Allnet Plus + 3 GB,Telefónica,0,11000,25000,0,True,0,True,24,month
 1091,allmobil,Flat L,Vodafone,0,4000,21600,0,True,0,True,24,month
 1096,yourfone,LTE 5 GB,Telefónica,0,5000,50000,0,True,9,False,24,month
 1099,TELE2,LTE Allnet-Flat M,Vodafone,0,5000,21600,0,True,0,True,24,month
 1099,goood,Allnet-Flat Go,Vodafone,0,3000,50000,0,True,0,True,24,month
+1103,blau,Allnet Plus + 3 GB,Telefónica,0,11000,25000,0,True,0,True,24,month
 1104,congstar,Allnet Flat S Flex 2 GB,Telekom,0,2000,25000,0,True,0,True,1,month
 1124,freenet Mobile,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,1,month
 1145,HIGH,HIGH 3 + 2 LTE 50,Telekom,0,5000,50000,0,True,0,True,24,month
