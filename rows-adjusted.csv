@@ -1,6 +1,5 @@
 pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names.default,tariffOverview.network.name,tariffOverview.internet.pricePerUnit.price.amount,tariffOverview.internet.traffic.value,tariffOverview.internet.speed.value,tariffOverview.voice.highestPrice.amount,tariffOverview.voice.flatrate,tariffOverview.sms.highestPrice.amount,tariffOverview.sms.flatrate,tariffOverview.contract.periods.contract.value,tariffOverview.contract.periods.contract.unit
 461,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,True,0,True,24,month
-471,sim.de,LTE All 2 GB + 1 GB,Telefónica,0,3000,50000,0,True,0,True,24,month
 471,simplytel,LTE 1000 + 1 GB,Telefónica,0,2000,50000,0,True,0,True,24,month
 491,blau,Allnet L,Telefónica,0,3000,25000,0,True,0,True,24,month
 571,handyvertrag.de,LTE All 3 GB + 1 GB,Telefónica,0,4000,50000,0,True,0,True,24,month
@@ -16,7 +15,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 764,ALDI TALK,Paket S,Telefónica,0,3000,21600,0,True,0,True,28,day
 764,NettoKOM,Smart S,Telefónica,24,3000,25000,0,True,0,True,28,day
 771,PremiumSIM,LTE L,Telefónica,0,7000,50000,0,True,0,True,24,month
-771,sim.de,LTE All 4 GB + 2 GB,Telefónica,0,6000,50000,0,True,0,True,24,month
+771,smartmobil.de,LTE 3 GB,Telefónica,0,3000,50000,0,True,0,True,24,month
 779,gmx.de,All-Net LTE 3 GB,Telefónica,0,3000,21600,0,True,0,True,24,month
 791,blau,Allnet L + 4 GB,Telefónica,0,7000,25000,0,True,0,True,24,month
 820,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,True,0,True,1,month
