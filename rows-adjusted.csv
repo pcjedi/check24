@@ -1,10 +1,10 @@
 pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names.default,tariffOverview.network.name,tariffOverview.internet.pricePerUnit.price.amount,tariffOverview.internet.traffic.value,tariffOverview.internet.speed.value,tariffOverview.voice.highestPrice.amount,tariffOverview.voice.flatrate,tariffOverview.sms.highestPrice.amount,tariffOverview.sms.flatrate,tariffOverview.contract.periods.contract.value,tariffOverview.contract.periods.contract.unit
 461,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,True,0,True,24,month
 471,winSIM,LTE All 1 GB + 1 GB,Telefónica,0,2000,50000,0,True,0,True,24,month
-491,blau,Allnet L,Telefónica,0,3000,25000,0,True,0,True,24,month
 571,PremiumSIM,LTE S,Telefónica,0,4000,50000,0,True,0,True,24,month
 591,blau,Allnet L + 1 GB,Telefónica,0,4000,25000,0,True,0,True,24,month
 620,MegaSim,green LTE 5 GB,Vodafone,0,5000,21600,0,True,0,True,24,month
+649,blau,Allnet L + 2 GB,Telefónica,0,5000,25000,0,True,0,True,24,month
 655,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,True,0,True,28,day
 661,Crash,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,True,0,True,24,month
 661,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,True,0,True,24,month
@@ -90,7 +90,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1307,Lidl Connect,Smart L,Vodafone,0,6000,25000,0,True,0,True,28,day
 1332,M-Net Mobil,Allnet-LTE S,Telefónica,0,5000,21100,0,True,0,True,24,month
 1357,ja! mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,True,0,True,28,day
-1369,Kaufland Mobil,Smart M,Telekom,1,6000,25000,0,True,0,True,28,day
+1369,NORMA Connect,Smart M,Telekom,0,6000,25000,0,True,0,True,28,day
 1369,blau,Allnet M,Telefónica,0,6000,25000,0,True,0,True,28,day
 1396,congstar,Fair Flat,Telekom,0,5000,25000,0,True,0,True,1,month
 1407,eteleon,LTE National 6000,Telefónica,0,6000,21600,0,True,0,True,24,month
