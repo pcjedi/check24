@@ -80,7 +80,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1261,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,21600,0,True,0,True,1,month
 1262,congstar,Prepaid wie ich will,Telekom,0,3000,25000,0,True,0,True,28,day
 1266,MegaSim,green LTE 6 GB,Telekom,0,6000,21600,0,True,19,False,24,month
-1271,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,True,0,True,24,month
+1271,web.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,True,0,True,24,month
 1282,mobilcom debitel,green LTE 9 GB,Telefónica,0,9000,21600,0,True,0,True,1,month
 1299,TELE2,LTE Allnet-Flat L,Vodafone,0,10000,50000,0,True,0,True,24,month
 1303,mobilcom debitel,green LTE 10 GB,Telekom,0,10000,21600,0,True,19,False,24,month
