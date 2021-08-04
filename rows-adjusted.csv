@@ -6,7 +6,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 620,Crash,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,True,0,True,24,month
 655,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,True,0,True,28,day
 661,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,True,0,True,24,month
-661,mobilcom debitel,green LTE 5 GB,Vodafone,0,5000,21600,0,True,19,False,24,month
+661,mobilcom debitel,green LTE 5 GB,Vodafone,0,5000,21600,0,True,0,True,24,month
 670,blau,Allnet L + 2 GB,Telefónica,0,5000,25000,0,True,0,True,24,month
 671,winSIM,LTE All 5 GB,Telefónica,0,5000,50000,0,True,0,True,24,month
 703,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,24,month
