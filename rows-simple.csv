@@ -79,7 +79,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1261,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,21600,0,True,0,True,1,month
 1262,congstar,Prepaid wie ich will,Telekom,0,3000,25000,0,True,0,True,28,day
 1266,MegaSim,green LTE 6 GB,Telekom,0,6000,21600,0,True,19,False,24,month
-1271,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,True,0,True,24,month
+1271,web.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,True,0,True,24,month
 1282,mobilcom debitel,green LTE 9 GB,Telefónica,0,9000,21600,0,True,0,True,1,month
 1299,TELE2,LTE Allnet-Flat L,Vodafone,0,10000,50000,0,True,0,True,24,month
 1303,mobilcom debitel,green LTE 10 GB,Telekom,0,10000,21600,0,True,19,False,24,month
@@ -87,7 +87,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1307,Lidl Connect,Smart L,Vodafone,0,6000,25000,0,True,0,True,28,day
 1307,ALDI TALK,Paket M,Telefónica,0,6000,21600,0,True,0,True,28,day
 1332,M-Net Mobil,Allnet-LTE S,Telefónica,0,5000,21100,0,True,0,True,24,month
-1357,ja! mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,True,0,True,28,day
+1357,Penny Mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,True,0,True,28,day
 1369,Kaufland Mobil,Smart M,Telekom,1,6000,25000,0,True,0,True,28,day
 1369,blau,Allnet M,o2,0,6000,25000,0,True,0,True,28,day
 1396,congstar,Fair Flat,Telekom,0,5000,25000,0,True,0,True,1,month
@@ -100,7 +100,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1465,Media Markt,Super Select M,Telefónica,0,8000,50000,0,True,0,True,24,month
 1470,mobilcom debitel,green LTE 20 GB,Telefónica,0,20000,225000,0,True,0,True,24,month
 1471,PremiumSIM,LTE XL,Telefónica,0,16000,50000,0,True,0,True,24,month
-1471,gmx.de,All-Net Flat LTE 9 GB,Telefónica,0,9000,21600,0,True,0,True,24,month
+1471,web.de,All-Net Flat LTE 9 GB,Telefónica,0,9000,21600,0,True,0,True,24,month
 1482,Crash,Allnet Flat 17 GB LTE,Vodafone,0,17000,50000,0,True,0,True,24,month
 1482,Vodafone,CallYa Allnet Flat M,Vodafone,0,5000,500000,0,True,0,True,28,day
 1486,o2,my Prepaid M,o2,0,6500,225000,0,True,0,True,28,day
