@@ -78,8 +78,8 @@ tariffOverview.internet.traffic.value,tariffOverview.network.name,24m,pricelayer
 60000,Telefónica,False,3166
 60000,Telefónica,True,2995
 120000,Telefónica,True,3495
-200000,Telekom,False,5104
-200000,Telekom,True,5021
+200000,Telekom,False,5125
+200000,Telekom,True,5042
 9999000,Telefónica,False,2166
 9999000,Telefónica,True,1557
 9999000,Telekom,False,8292
