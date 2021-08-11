@@ -46,6 +46,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 982,blau,Allnet Plus + 2 GB,Telefónica,0,10000,25000,0,True,0,True,24,month
 999,Ay Yildiz,Ay Allnet,Telefónica,0,6000,21600,0,True,12,False,24,month
 999,klarmobil,Allnet Flat 5 GB LTE,Vodafone,0,5000,21600,0,True,0,True,1,month
+1000,htp,Mobil All Net Flat LTE,Telefónica,0,3000,25000,0,True,15,False,24,month
 1007,mobilcom debitel,o2 Free S,Telefónica,0,3000,225000,0,True,0,True,24,month
 1021,congstar,Allnet Flat S 2 GB,Telekom,0,2000,25000,0,True,0,True,24,month
 1041,freenet Mobile,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,12,month
