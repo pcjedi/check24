@@ -61,11 +61,11 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1099,goood,Allnet-Flat Go,Vodafone,0,3000,50000,0,True,0,True,24,month
 1103,blau,Allnet Plus + 3 GB,Telefónica,0,11000,25000,0,True,0,True,24,month
 1104,congstar,Allnet Flat S Flex 2 GB,Telekom,0,2000,25000,0,True,0,True,1,month
+1124,Media Markt,Super Select S,Telefónica,0,6000,50000,0,True,0,True,24,month
 1124,freenet Mobile,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,1,month
 1145,HIGH,HIGH 3 + 2 LTE 50,Telekom,0,5000,50000,0,True,0,True,24,month
 1145,MegaSim,Allnet 9 GB LTE,Telefónica,0,9000,21600,0,True,0,True,24,month
 1149,klarmobil,Allnet Flat 5 GB LTE 50,Telekom,0,5000,50000,0,True,0,True,24,month
-1165,Media Markt,Super Select S,Telefónica,0,6000,50000,0,True,0,True,24,month
 1165,Saturn,Super Select S,Telefónica,0,6000,50000,0,True,0,True,24,month
 1179,congstar,Allnet Flat S Flex,Telekom,0,3000,25000,0,True,0,True,1,month
 1203,Crash,Allnet Flat 10 GB LTE 25,Telekom,0,10000,25000,0,True,0,True,24,month
