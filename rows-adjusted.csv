@@ -21,7 +21,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 791,blau,Allnet L + 4 GB,Telefónica,0,7000,25000,0,True,0,True,24,month
 820,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,True,0,True,1,month
 824,mobilcom debitel,green LTE 8 GB,Vodafone,0,8000,50000,0,True,0,True,24,month
-826,Kaufland Mobil,Smart S,Telekom,1,3000,25000,0,True,0,True,28,day
+826,NORMA Connect,Smart S,Telekom,0,3000,25000,0,True,0,True,28,day
 826,blau,Allnet S,Telefónica,0,3000,25000,0,True,0,True,28,day
 826,ja! mobil,Prepaid Smart,Telekom,0,3000,25000,0,True,0,True,28,day
 833,allmobil,Flat M,Vodafone,0,2000,21600,0,True,0,True,24,month
@@ -69,6 +69,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1145,HIGH,HIGH 3 + 2 LTE 50,Telekom,0,5000,50000,0,True,0,True,24,month
 1145,MegaSim,Allnet 9 GB LTE,Telefónica,0,9000,21600,0,True,0,True,24,month
 1149,klarmobil,Allnet Flat 5 GB LTE 50,Telekom,0,5000,50000,0,True,0,True,24,month
+1171,sim.de,LTE All 8 GB + 4 GB,Telefónica,0,12000,50000,0,True,0,True,24,month
 1179,congstar,Allnet Flat S Flex,Telekom,0,3000,25000,0,True,0,True,1,month
 1203,Crash,Allnet Flat 10 GB LTE 25,Telekom,0,10000,25000,0,True,0,True,24,month
 1203,Crash,Allnet Flat 12 GB LTE,Vodafone,0,12000,50000,0,True,0,True,24,month
@@ -87,10 +88,9 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1307,Lidl Connect,Smart L,Vodafone,0,6000,25000,0,True,0,True,28,day
 1332,M-Net Mobil,Allnet-LTE S,Telefónica,0,5000,21100,0,True,0,True,24,month
 1357,ja! mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,True,0,True,28,day
-1369,Kaufland Mobil,Smart M,Telekom,1,6000,25000,0,True,0,True,28,day
+1369,NORMA Connect,Smart M,Telekom,0,6000,25000,0,True,0,True,28,day
 1369,blau,Allnet M,Telefónica,0,6000,25000,0,True,0,True,28,day
 1371,gmx.de,All-Net Flat LTE 12 GB,Telefónica,0,12000,25000,0,True,0,True,24,month
-1371,smartmobil.de,LTE 5 + 7 GB,Telefónica,0,12000,50000,0,True,0,True,24,month
 1395,mobilcom debitel,green LTE 18 GB,Telekom,0,18000,21600,0,True,0,True,24,month
 1396,congstar,Fair Flat,Telekom,0,5000,25000,0,True,0,True,1,month
 1407,eteleon,LTE National 6000,Telefónica,0,6000,21600,0,True,0,True,24,month
