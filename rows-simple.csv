@@ -103,8 +103,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1482,Crash,Allnet Flat 17 GB LTE,Vodafone,0,17000,50000,0,True,0,True,24,month
 1482,Vodafone,CallYa Allnet Flat M,Vodafone,0,5000,500000,0,True,0,True,28,day
 1486,o2,my Prepaid M,o2,0,6500,225000,0,True,0,True,28,day
-1499,OTELO,Allnet-Flat Classic,Vodafone,0,15000,50000,0,True,0,True,24,month
 1499,klarmobil,Allnet Flat 10 GB LTE,Vodafone,0,10000,21600,0,True,0,True,1,month
+1499,OTELO,Allnet-Flat Classic,Vodafone,0,15000,50000,0,True,0,True,24,month
 1499,SIMon mobile,Flex 8 GB,Vodafone,0,8000,50000,0,True,0,True,1,month
 1503,Crash,Allnet Flat 10 GB LTE 50,Telekom,0,10000,50000,0,True,0,True,24,month
 1508,HIGH,HIGH 10 LTE 50,Telekom,0,10000,50000,0,True,0,True,24,month
