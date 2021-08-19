@@ -147,7 +147,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 2041,mobilcom debitel,green LTE 60 GB,Telefónica,0,60000,225000,0,True,0,True,1,month
 2042,WEtell,Mittelwelle,Vodafone,0,5000,21600,0,True,0,True,1,month
 2054,congstar,Allnet Flat M,Telekom,0,15000,25000,0,True,0,True,24,month
-2088,Penny Mobil,Prepaid Smart Max,Telekom,0,12000,25000,0,True,0,True,28,day
+2088,ja! mobil,Prepaid Smart Max,Telekom,0,12000,25000,0,True,0,True,28,day
 2093,FCB Mobil,FCB Mobil S,Telekom,0,5500,300000,0,True,0,True,24,month
 2096,yourfone,LTE 20 GB,Telefónica,0,20000,50000,0,True,9,False,24,month
 2099,mobilcom debitel,green LTE 18 GB,Telekom,0,18000,21600,0,True,0,True,24,month
