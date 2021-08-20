@@ -130,10 +130,10 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariffOverview.names
 1799,klarmobil,Allnet Flat 15 GB LTE,Vodafone,0,15000,21600,0,True,0,True,1,month
 1824,Crash,Allnet Flat 25 GB LTE,Vodafone,0,25000,21600,0,True,0,True,24,month
 1824,freenet Mobile,Allnet Flat 20 GB LTE,Vodafone,0,20000,50000,0,True,0,True,1,month
+1845,HIGH,HIGH 15 LTE 50,Telekom,0,15000,50000,0,True,0,True,24,month
 1850,ALDI TALK,Paket L,Telefónica,0,12000,21600,0,True,0,True,28,day
 1850,Lidl Connect,Smart XL,Vodafone,0,12000,25000,0,True,0,True,28,day
 1866,mobilcom debitel,green LTE 20 GB,Telefónica,0,20000,225000,0,True,0,True,1,month
-1895,HIGH,HIGH 15 LTE 50,Telekom,0,15000,50000,0,True,0,True,24,month
 1895,OTELO,Allnet-Flat Max,Vodafone,0,30000,21600,0,True,0,True,24,month
 1907,eteleon,LTE National 8000,Telefónica,0,8000,21600,0,True,0,True,24,month
 1912,blau,Allnet L,Telefónica,0,12000,25000,0,True,0,True,28,day
