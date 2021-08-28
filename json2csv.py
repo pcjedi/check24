@@ -15,17 +15,17 @@ df = df[df.columns[~df.applymap(lambda x: isinstance(x, list)).any()]]
 core = [
   "pricelayer.prices.effective.amount",
   "pricelayer.provider.name",
-  "tariffOverview.names.default",
-  "tariffOverview.network.name",
-  "tariffOverview.internet.pricePerUnit.price.amount",
-  "tariffOverview.internet.traffic.value",
-  "tariffOverview.internet.speed.value",
-  "tariffOverview.voice.highestPrice.amount",
-  "tariffOverview.voice.flatrate",
-  "tariffOverview.sms.highestPrice.amount",
-  "tariffOverview.sms.flatrate",
-  "tariffOverview.contract.periods.contract.value",
-  "tariffOverview.contract.periods.contract.unit",
+  "tariff.names.default",
+  "tariff.network.name",
+  "tariff.internet.pricePerUnit.price.amount",
+  "tariff.internet.traffic.value",
+  "tariff.internet.speed.value",
+  "tariff.voice.highestPrice.amount",
+  "tariff.voice.flatrate",
+  "tariff.sms.highestPrice.amount",
+  "tariff.sms.flatrate",
+  "tariff.contract.periods.contract.value",
+  "tariff.contract.periods.contract.unit",
 ]
 
 if args.check24core:
@@ -38,7 +38,7 @@ if args.check24all:
 
 if args.check24adjusted:
   df_core = df[core]
-  df_core.loc[df_core["tariffOverview.names.default"]=="WhatsAll 4000", "tariffOverview.internet.traffic.value"] = 4000
+  df_core.loc[df_core["tariff.names.default"]=="WhatsAll 4000", "tariff.internet.traffic.value"] = 4000
   df_core = df_core.replace(
     to_replace = {
       'pricelayer.provider.name': {
@@ -60,13 +60,13 @@ if args.check24adjusted:
   # df_core = df_core[df_core["tariff.internet.pricePerUnit.price.amount"]==0]
   df_core["24m"] = False
   df_core.loc[
-    (df_core["tariffOverview.contract.periods.contract.value"] == 24) & 
-    (df_core["tariffOverview.contract.periods.contract.unit"] == "month"), 
+    (df_core["tariff.contract.periods.contract.value"] == 24) & 
+    (df_core["tariff.contract.periods.contract.unit"] == "month"), 
     "24m"
   ] = True
   df_core.groupby([
-        "tariffOverview.internet.traffic.value", 
-        "tariffOverview.network.name", 
+        "tariff.internet.traffic.value", 
+        "tariff.network.name", 
         "24m"
   ])[
       "pricelayer.prices.effective.amount"
