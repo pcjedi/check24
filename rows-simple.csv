@@ -11,7 +11,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 661,mobilcom debitel,green LTE 5 GB,Vodafone,0,5000,21600,0,True,0,True,24,month
 661,MegaSim,Allnet 6 GB LTE,Telefónica,0,6000,21600,0,True,0,True,24,month
 671,smartmobil.de,LTE 3 GB,Telefónica,0,3000,50000,0,True,0,True,24,month
-671,web.de,All-Net LTE 3 GB,Telefónica,0,3000,25000,0,True,0,True,24,month
+671,gmx.de,All-Net LTE 3 GB,Telefónica,0,3000,25000,0,True,0,True,24,month
 703,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,True,0,True,24,month
 764,Lidl Connect,Smart S,Vodafone,0,3000,25000,0,True,0,True,28,day
