@@ -171,7 +171,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2557,mobilcom debitel,green LTE 40 GB,Telefónica,0,40000,225000,0,True,0,True,24,month
 2582,o2,Free Unlimited Basic,o2,0,9999000,2000,0,True,0,True,24,month
 2635,Telekom,Magenta Mobil Prepaid XL,Telekom,99,5000,300000,0,True,0,True,28,day
-2665,1&1,All-Net-Flat LTE L,Telefónica,0,20000,225000,0,True,0,True,24,month
+2665,1&1,All-Net-Flat 5G L,Telefónica,0,20000,500000,0,True,0,True,24,month
 2666,mobilcom debitel,green LTE 40 GB,Telefónica,0,40000,225000,0,True,0,True,1,month
 2666,o2,Free S Flex,o2,0,3000,225000,0,True,0,True,1,month
 2668,EDEKA smart,kombi XL,Telekom,0,8000,300000,0,True,0,True,28,day
