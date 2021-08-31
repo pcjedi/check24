@@ -87,11 +87,10 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1303,mobilcom debitel,green LTE 10 GB,Telekom,0,10000,21600,0,True,19,False,24,month
 1307,ALDI TALK,Paket M,Telefónica,0,6000,21600,0,True,0,True,28,day
 1357,ja! mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,True,0,True,28,day
-1369,NORMA Connect,Smart M,Telekom,0,6000,25000,0,True,0,True,28,day
+1369,Kaufland Mobil,Smart M,Telekom,1,6000,25000,0,True,0,True,28,day
 1369,blau,Allnet M,o2,0,6000,25000,0,True,0,True,28,day
 1371,gmx.de,All-Net Flat LTE 12 GB,Telefónica,0,12000,25000,0,True,0,True,24,month
 1371,smartmobil.de,LTE 5 + 7 GB,Telefónica,0,12000,50000,0,True,0,True,24,month
-1395,mobilcom debitel,green LTE 18 GB,Telekom,0,18000,21600,0,True,0,True,24,month
 1396,congstar,Fair Flat,Telekom,0,5000,25000,0,True,0,True,1,month
 1407,eteleon,LTE National 6000,Telefónica,0,6000,21600,0,True,0,True,24,month
 1424,Media Markt,Super Select M,Telefónica,0,8000,50000,0,True,0,True,24,month
@@ -149,6 +148,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2088,ja! mobil,Prepaid Smart Max,Telekom,0,12000,25000,0,True,0,True,28,day
 2093,FCB Mobil,FCB Mobil S,Telekom,0,5500,300000,0,True,0,True,24,month
 2096,yourfone,LTE 20 GB,Telefónica,0,20000,50000,0,True,9,False,24,month
+2099,mobilcom debitel,green LTE 18 GB,Telekom,0,18000,21600,0,True,0,True,24,month
 2103,Vodafone,Red XS,Vodafone,0,4000,500000,0,True,0,True,24,month
 2130,NORMA Connect,Smart L,Telekom,0,12000,25000,0,True,0,True,28,day
 2131,Vodafone,CallYa Digital,Vodafone,0,10000,500000,0,True,0,True,28,day
