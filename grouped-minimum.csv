@@ -33,6 +33,7 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 6000,o2,True,1641
 6500,o2,False,1486
 7000,Telefónica,True,771
+7000,Telekom,True,1145
 7000,Vodafone,False,1041
 7000,Vodafone,True,703
 7000,o2,True,791
