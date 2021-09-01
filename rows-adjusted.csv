@@ -88,7 +88,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1303,mobilcom debitel,green LTE 10 GB + 4 GB,Telekom,0,10000,25000,0,True,19,False,24,month
 1307,ALDI TALK,Paket M,Telefónica,0,6000,21600,0,True,0,True,28,day
 1357,ja! mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,True,0,True,28,day
-1369,Kaufland Mobil,Smart M,Telekom,1,6000,25000,0,True,0,True,28,day
+1369,NORMA Connect,Smart M,Telekom,0,6000,25000,0,True,0,True,28,day
 1369,blau,Allnet M,o2,0,6000,25000,0,True,0,True,28,day
 1371,gmx.de,All-Net Flat LTE 12 GB,Telefónica,0,12000,25000,0,True,0,True,24,month
 1371,smartmobil.de,LTE 5 + 7 GB,Telefónica,0,12000,50000,0,True,0,True,24,month
