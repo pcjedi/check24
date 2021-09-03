@@ -190,7 +190,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 3082,o2,Free M Boost,o2,0,40000,300000,0,True,0,True,24,month
 3165,1&1,All-Net-Flat 5G XL,Telefónica,0,50000,500000,0,True,0,True,24,month
 3166,mobilcom debitel,green LTE 60 GB,Telefónica,0,60000,225000,0,True,0,True,1,month
-3253,Telekom,Magenta Mobil S,Telekom,0,6000,300000,0,True,0,True,24,month
+3211,Telekom,Magenta Mobil S,Telekom,0,6000,300000,0,True,0,True,24,month
 3299,goood,Allnet-Flat Max,Vodafone,0,20000,50000,0,True,0,True,24,month
 3389,FCB Mobil,FCB Mobil L,Telekom,0,20000,300000,0,True,0,True,24,month
 3416,o2,Free L,o2,0,60000,300000,0,True,0,True,24,month
@@ -206,18 +206,18 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 4165,Media Markt,Super Select XL,Telefónica,0,12000,50000,0,True,0,True,24,month
 4165,Saturn,Super Select XL,Telefónica,0,12000,50000,0,True,0,True,24,month
 4166,mobilcom debitel,o2 Free Unlimited Max,o2,0,9999000,225000,0,True,0,True,1,month
-4253,Telekom,Magenta Mobil M,Telekom,0,12000,300000,0,True,0,True,24,month
 4395,Vodafone,Red L,Vodafone,0,40000,500000,0,True,0,True,24,month
 4666,o2,Free L Flex,o2,0,60000,300000,0,True,0,True,1,month
 4666,o2,Free Unlimited Smart Flex,o2,0,9999000,10000,0,True,0,True,1,month
 4928,mobilcom debitel,Red L,Vodafone,0,40000,500000,0,True,0,True,24,month
 5042,congstar,congstar X,Telekom,0,200000,50000,0,True,0,True,24,month
+5086,Telekom,Magenta Mobil L,Telekom,0,24000,300000,0,True,0,True,24,month
 5125,congstar,congstar X Flex,Telekom,0,200000,50000,0,True,0,True,1,month
-5357,Telekom,Magenta Mobil L,Telekom,0,24000,300000,0,True,0,True,24,month
+5161,Telekom,Magenta Mobil M,Telekom,0,12000,300000,0,True,0,True,24,month
 5582,o2,Free Unlimited Max,o2,0,9999000,500000,0,True,0,True,24,month
 6428,mobilcom debitel,Red XL,Vodafone,0,9999000,500000,0,True,0,True,24,month
 6666,o2,Free Unlimited Max Flex,o2,0,9999000,500000,0,True,0,True,1,month
-7795,Telekom,Magenta Mobil XL,Telekom,0,9999000,300000,0,True,0,True,24,month
+7586,Telekom,Magenta Mobil XL,Telekom,0,9999000,300000,0,True,0,True,24,month
 8292,Telekom,MagentaEINS Plus S,Telekom,0,9999000,100000,0,True,0,True,1,month
 8790,1&1,All-Net-Flat 5G XXL,Telefónica,0,9999000,500000,0,True,0,True,24,month
 9292,Telekom,MagentaEINS Plus M,Telekom,0,9999000,250000,0,True,0,True,1,month
