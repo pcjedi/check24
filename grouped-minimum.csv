@@ -10,7 +10,7 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 3000,Vodafone,False,743
 3000,Vodafone,True,1099
 3000,o2,False,826
-3000,o2,True,591
+3000,o2,True,491
 3500,o2,False,977
 4000,Telefónica,False,820
 4000,Telefónica,True,461
@@ -19,7 +19,7 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 5000,Telekom,False,1396
 5000,Telekom,True,841
 5000,Vodafone,False,999
-5000,Vodafone,True,641
+5000,Vodafone,True,541
 5000,o2,True,691
 5500,Telekom,True,2093
 6000,Telefónica,False,1061
