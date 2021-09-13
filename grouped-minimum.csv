@@ -67,7 +67,7 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 15000,Telefónica,True,1449
 15000,Telekom,True,1707
 15000,Vodafone,False,1799
-15000,Vodafone,True,791
+15000,Vodafone,True,770
 17000,Vodafone,True,1482
 20000,Telefónica,False,1866
 20000,Telefónica,True,1470
