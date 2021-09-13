@@ -1,4 +1,5 @@
 pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default,tariff.network.name,tariff.internet.pricePerUnit.price.amount,tariff.internet.traffic.value,tariff.internet.speed.value,tariff.voice.highestPrice.amount,tariff.voice.flatrate,tariff.sms.highestPrice.amount,tariff.sms.flatrate,tariff.contract.periods.contract.value,tariff.contract.periods.contract.unit
+541,mobilcom debitel,green LTE 5 GB,Vodafone,0,5000,21600,0,True,19,False,24,month
 770,OTELO,Allnet-Flat Classic,Vodafone,0,15000,21600,0,True,0,True,24,month
 461,MegaSim,Allnet 4 GB LTE,Telefónica,0,4000,21600,0,True,0,True,24,month
 471,PremiumSIM,LTE S,Telefónica,0,2000,50000,0,True,0,True,24,month
