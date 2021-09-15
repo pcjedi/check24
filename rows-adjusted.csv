@@ -95,7 +95,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1354,gmx.de,All-Net Flat LTE 12 GB,Telefónica,0,12000,21600,0,True,0,True,24,month
 1357,freenet Mobile,Allnet Flat 12 GB LTE,Vodafone,0,12000,50000,0,True,0,True,12,month
 1357,ja! mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,True,0,True,28,day
-1369,NORMA Connect,Smart M,Telekom,0,6000,25000,0,True,0,True,28,day
+1369,Kaufland Mobil,Smart M,Telekom,1,6000,25000,0,True,0,True,28,day
 1369,blau,Allnet M,o2,0,6000,25000,0,True,0,True,28,day
 1371,smartmobil.de,LTE 5 + 7 GB,Telefónica,0,12000,50000,0,True,0,True,24,month
 1391,blau,Allnet Plus + 4 GB,o2,0,12000,25000,0,True,0,True,24,month
@@ -158,7 +158,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2096,yourfone,LTE 20 GB,Telefónica,0,20000,50000,0,True,9,False,24,month
 2099,mobilcom debitel,green LTE 20 GB,Telekom,0,20000,25000,0,True,0,True,24,month
 2103,Vodafone,Red XS,Vodafone,0,4000,500000,0,True,0,True,24,month
-2130,Kaufland Mobil,Smart L,Telekom,1,12000,25000,0,True,0,True,28,day
+2130,NORMA Connect,Smart L,Telekom,0,12000,25000,0,True,0,True,28,day
 2131,Vodafone,CallYa Digital,Vodafone,0,10000,500000,0,True,0,True,28,day
 2165,1&1,All-Net-Flat LTE M,Telefónica,0,10000,225000,0,True,0,True,24,month
 2166,mobilcom debitel,o2 Free Unlimited Basic,o2,0,9999000,2000,0,True,0,True,1,month
@@ -176,6 +176,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2528,mobilcom debitel,Smart XL,Vodafone,0,6000,500000,0,True,0,True,24,month
 2542,WEtell,Superfunk,Vodafone,0,10000,21600,0,True,0,True,1,month
 2557,mobilcom debitel,green LTE 40 GB,Telefónica,0,40000,225000,0,True,0,True,24,month
+2599,mobilcom debitel,green LTE 30 GB,Telekom,0,30000,50000,0,True,0,True,24,month
 2635,Telekom,Magenta Mobil Prepaid XL,Telekom,99,5000,300000,0,True,0,True,28,day
 2665,1&1,All-Net-Flat 5G L,Telefónica,0,20000,500000,0,True,0,True,24,month
 2666,mobilcom debitel,green LTE 40 GB,Telefónica,0,40000,225000,0,True,0,True,1,month
