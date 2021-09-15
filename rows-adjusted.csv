@@ -32,6 +32,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 871,PremiumSIM,LTE L,Telefónica,0,8000,50000,0,True,0,True,24,month
 871,sim.de,LTE All 8 GB + 1 GB,Telefónica,0,9000,50000,0,True,0,True,24,month
 874,OTELO,Allnet-Flat Classic,Vodafone,0,15000,21600,0,True,0,True,24,month
+874,klarmobil,Allnet Flat 15 GB LTE,Vodafone,0,15000,50000,0,True,0,True,24,month
 881,Crash,Allnet Flat 7 GB LTE 25,Telekom,0,7000,25000,0,True,0,True,24,month
 882,Crash,Allnet Flat 8 GB LTE,Vodafone,0,8000,50000,0,True,0,True,24,month
 887,blau,Allnet XL + 4 GB,o2,0,9000,25000,0,True,0,True,24,month
@@ -42,7 +43,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 896,yourfone,LTE 3 GB,Telefónica,0,3000,50000,0,True,9,False,24,month
 939,Vodafone,CallYa Allnet Flat S,Vodafone,0,3000,500000,0,True,0,True,28,day
 957,freenet Mobile,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,12,month
-957,klarmobil,Allnet Flat 15 GB LTE,Vodafone,0,15000,50000,0,True,0,True,24,month
 961,MegaSim,Allnet 10 GB LTE,Telefónica,0,10000,50000,0,True,0,True,24,month
 970,gmx.de,All-Net Flat LTE 7 GB,Telefónica,0,7000,21600,0,True,0,True,24,month
 971,handyvertrag.de,LTE All 8 GB + 2 GB,Telefónica,0,10000,50000,0,True,0,True,24,month
