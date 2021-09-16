@@ -180,10 +180,10 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2635,Telekom,Magenta Mobil Prepaid XL,Telekom,99,5000,300000,0,True,0,True,28,day
 2665,1&1,All-Net-Flat 5G L,Telefónica,0,20000,500000,0,True,0,True,24,month
 2666,mobilcom debitel,green LTE 40 GB,Telefónica,0,40000,225000,0,True,0,True,1,month
-2666,o2,Free M Boost,o2,0,40000,300000,0,True,0,True,24,month
 2666,o2,Free S Flex,o2,0,3000,225000,0,True,0,True,1,month
 2668,EDEKA smart,kombi XL,Telekom,0,8000,300000,0,True,0,True,28,day
 2730,FCB Mobil,FCB Mobil M,Telekom,0,11000,300000,0,True,0,True,24,month
+2749,o2,Free M Boost,o2,0,40000,300000,0,True,0,True,24,month
 2792,congstar,Allnet Flat L,Telekom,0,20000,25000,0,True,0,True,24,month
 2812,Vodafone,Red S,Vodafone,0,10000,500000,0,True,0,True,24,month
 2928,mobilcom debitel,Red S,Vodafone,0,10000,500000,0,True,0,True,24,month
