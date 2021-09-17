@@ -175,11 +175,11 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2542,WEtell,Superfunk,Vodafone,0,10000,21600,0,True,0,True,1,month
 2557,mobilcom debitel,green LTE 40 GB,Telefónica,0,40000,225000,0,True,0,True,24,month
 2599,mobilcom debitel,green LTE 30 GB,Telekom,0,30000,50000,0,True,0,True,24,month
+2606,EDEKA smart,kombi XL,Telekom,0,8000,300000,0,True,0,True,28,day
 2635,Telekom,Magenta Mobil Prepaid XL,Telekom,99,5000,300000,0,True,0,True,28,day
 2665,1&1,All-Net-Flat 5G L,Telefónica,0,20000,500000,0,True,0,True,24,month
 2666,mobilcom debitel,green LTE 40 GB,Telefónica,0,40000,225000,0,True,0,True,1,month
 2666,o2,Free S Flex,o2,0,3000,225000,0,True,0,True,1,month
-2668,EDEKA smart,kombi XL,Telekom,0,8000,300000,0,True,0,True,28,day
 2730,FCB Mobil,FCB Mobil M,Telekom,0,11000,300000,0,True,0,True,24,month
 2749,o2,Free M Boost,o2,0,40000,300000,0,True,0,True,24,month
 2792,congstar,Allnet Flat L,Telekom,0,20000,25000,0,True,0,True,24,month
@@ -226,4 +226,4 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 8292,Telekom,MagentaEINS Plus S,Telekom,0,9999000,100000,0,True,0,True,1,month
 8790,1&1,All-Net-Flat 5G XXL,Telefónica,0,9999000,500000,0,True,0,True,24,month
 9292,Telekom,MagentaEINS Plus M,Telekom,0,9999000,250000,0,True,0,True,1,month
-10252,EDEKA smart,kombi MAX,Telekom,0,9999000,300000,0,True,0,True,28,day
+10190,EDEKA smart,kombi MAX,Telekom,0,9999000,300000,0,True,0,True,28,day

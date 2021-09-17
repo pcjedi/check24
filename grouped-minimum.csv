@@ -37,7 +37,7 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 7000,Vodafone,True,703
 7000,o2,True,791
 8000,Telefónica,True,871
-8000,Telekom,False,2668
+8000,Telekom,False,2606
 8000,Vodafone,False,1261
 8000,Vodafone,True,824
 9000,Telefónica,False,1282
