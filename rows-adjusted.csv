@@ -51,6 +51,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1000,htp,Mobil All Net Flat LTE,Telefónica,0,3000,25000,0,True,15,False,24,month
 1007,mobilcom debitel,o2 Free S,o2,0,3000,225000,0,True,0,True,24,month
 1021,congstar,Allnet Flat S 2 GB,Telekom,0,2000,25000,0,True,0,True,24,month
+1022,Tchibo,Smart L,Telefónica,0,6000,25000,0,True,0,True,28,day
 1032,mobilcom debitel,green LTE 10 GB,Telekom,0,10000,25000,0,True,19,False,24,month
 1041,freenet Mobile,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,12,month
 1041,mobilcom debitel,green LTE 12 GB,Telefónica,0,12000,50000,0,True,0,True,1,month
@@ -93,7 +94,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1307,Lidl Connect,Smart L,Vodafone,0,6000,25000,0,True,0,True,28,day
 1354,gmx.de,All-Net Flat LTE 12 GB,Telefónica,0,12000,21600,0,True,0,True,24,month
 1357,ja! mobil,Prepaid Smart Plus,Telekom,0,6000,25000,0,True,0,True,28,day
-1369,Kaufland Mobil,Smart M,Telekom,1,6000,25000,0,True,0,True,28,day
+1369,NORMA Connect,Smart M,Telekom,0,6000,25000,0,True,0,True,28,day
 1369,blau,Allnet M,o2,0,6000,25000,0,True,0,True,28,day
 1371,smartmobil.de,LTE 5 + 7 GB,Telefónica,0,12000,50000,0,True,0,True,24,month
 1391,blau,Allnet Plus + 4 GB,o2,0,12000,25000,0,True,0,True,24,month
@@ -118,6 +119,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1541,mobilcom debitel,green LTE 10 GB,Telefónica,0,10000,225000,0,True,0,True,1,month
 1557,mobilcom debitel,green LTE 10 GB,Telefónica,0,10000,225000,0,True,0,True,24,month
 1557,mobilcom debitel,o2 Free Unlimited Basic,o2,0,9999000,2000,0,True,0,True,24,month
+1565,Tchibo,Smart XL,Telefónica,0,10000,25000,0,True,0,True,28,day
 1566,congstar,Prepaid Allnet L,Telekom,0,5000,25000,0,True,9,False,28,day
 1582,mobilcom debitel,Allnet 15 GB LTE,Telefónica,0,15000,225000,0,True,0,True,1,month
 1582,o2,Free S,o2,0,3000,225000,0,True,0,True,24,month
@@ -125,7 +127,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1595,mobilcom debitel,green LTE 20 GB,Vodafone,0,20000,50000,0,True,0,True,24,month
 1599,TELE2,LTE Allnet-Flat XL,Vodafone,0,20000,50000,0,True,0,True,24,month
 1641,mobilcom debitel,o2 Free S Boost,o2,0,6000,225000,0,True,0,True,24,month
-1669,Tchibo,Smart L,Telefónica,0,6000,25000,0,True,0,True,28,day
 1671,PremiumSIM,LTE All 20 GB,Telefónica,0,20000,50000,0,True,0,True,24,month
 1707,Crash,Allnet Flat 15 GB LTE 25,Telekom,0,15000,25000,0,True,0,True,24,month
 1707,FONIC,Smart 6 GB,Telefónica,0,6000,21600,0,True,0,True,28,day
@@ -156,7 +157,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2096,yourfone,LTE 20 GB,Telefónica,0,20000,50000,0,True,9,False,24,month
 2099,mobilcom debitel,green LTE 20 GB,Telekom,0,20000,25000,0,True,0,True,24,month
 2103,Vodafone,Red XS,Vodafone,0,4000,500000,0,True,0,True,24,month
-2130,NORMA Connect,Smart L,Telekom,0,12000,25000,0,True,0,True,28,day
+2130,Kaufland Mobil,Smart L,Telekom,1,12000,25000,0,True,0,True,28,day
 2131,Vodafone,CallYa Digital,Vodafone,0,10000,500000,0,True,0,True,28,day
 2165,1&1,All-Net-Flat LTE M,Telefónica,0,10000,225000,0,True,0,True,24,month
 2166,mobilcom debitel,o2 Free Unlimited Basic,o2,0,9999000,2000,0,True,0,True,1,month
@@ -164,7 +165,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 2179,congstar,Allnet Flat M Flex,Telekom,0,10000,25000,0,True,0,True,1,month
 2199,goood,Allnet-Flat Classic,Vodafone,0,10000,50000,0,True,0,True,24,month
 2207,eteleon,LTE National 10000,Telefónica,0,10000,21600,0,True,0,True,24,month
-2213,Tchibo,Smart XL,Telefónica,0,10000,25000,0,True,0,True,28,day
 2249,o2,Free M,o2,0,20000,300000,0,True,0,True,24,month
 2445,mobilcom debitel,Magenta Mobil S,Telekom,0,6000,300000,0,True,0,True,24,month
 2470,mobilcom debitel,green LTE 26 GB + 4 GB,Telekom,0,30000,25000,0,True,0,True,24,month
