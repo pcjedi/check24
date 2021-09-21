@@ -142,7 +142,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1912,blau,Allnet L,o2,0,12000,25000,0,True,0,True,28,day
 1928,mobilcom debitel,Red XS,Vodafone,0,4000,500000,0,True,0,True,24,month
 1932,mobilcom debitel,o2 Free M,o2,0,20000,225000,0,True,0,True,24,month
-1971,winSIM,LTE All 20 GB,Telefónica,0,20000,50000,0,True,0,True,24,month
+1971,smartmobil.de,LTE 20 GB,Telefónica,0,20000,50000,0,True,0,True,24,month
 1999,Ay Yildiz,Ay Allnet Plus,Telefónica,0,12000,21600,0,True,12,False,24,month
 1999,OTELO,Allnet-Flat Max,Vodafone,0,30000,50000,0,True,0,True,24,month
 2007,Crash,Allnet Flat 15 GB LTE 50,Telekom,0,15000,50000,0,True,0,True,24,month
