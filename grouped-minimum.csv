@@ -6,7 +6,7 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 3000,Telefónica,False,764
 3000,Telefónica,True,571
 3000,Telekom,False,826
-3000,Telekom,True,854
+3000,Telekom,True,845
 3000,Vodafone,False,764
 3000,Vodafone,True,1099
 3000,o2,False,826
@@ -18,12 +18,12 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 4000,o2,True,591
 5000,Telefónica,True,671
 5000,Telekom,False,1521
-5000,Telekom,True,845
+5000,Telekom,True,882
 5000,Vodafone,False,999
 5000,Vodafone,True,641
 5000,o2,True,691
 5500,Telekom,True,2093
-6000,Telefónica,False,1061
+6000,Telefónica,False,1022
 6000,Telefónica,True,661
 6000,Telekom,False,1357
 6000,Telekom,True,1266
@@ -33,7 +33,7 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 6000,o2,True,1641
 6500,o2,False,1520
 7000,Telefónica,True,771
-7000,Telekom,True,881
+7000,Telekom,True,1123
 7000,Vodafone,False,1041
 7000,Vodafone,True,703
 7000,o2,True,791
@@ -67,7 +67,7 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 14000,Telekom,True,1303
 15000,Telefónica,False,1582
 15000,Telefónica,True,1449
-15000,Telekom,True,1707
+15000,Telekom,True,1424
 15000,Vodafone,False,1799
 15000,Vodafone,True,861
 16000,Telefónica,True,1471
@@ -75,7 +75,7 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 20000,Telefónica,False,1866
 20000,Telefónica,True,1470
 20000,Telekom,False,2979
-20000,Telekom,True,1895
+20000,Telekom,True,1845
 20000,Vodafone,False,1741
 20000,Vodafone,True,1586
 20000,o2,False,3666
