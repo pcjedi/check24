@@ -63,7 +63,6 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 12000,o2,True,1191
 12500,o2,False,2064
 14000,Telefónica,True,1271
-14000,Telekom,True,1303
 15000,Telefónica,False,1582
 15000,Telefónica,True,1449
 15000,Telekom,True,1424
@@ -101,5 +100,5 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 9999000,Telekom,False,8292
 9999000,Telekom,True,7586
 9999000,Vodafone,True,6428
-9999000,o2,False,2166
+9999000,o2,False,1366
 9999000,o2,True,1557
