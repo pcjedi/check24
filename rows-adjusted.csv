@@ -87,7 +87,6 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1271,PremiumSIM,LTE All 8 + 6 GB,Telefónica,0,14000,50000,0,True,0,True,24,month
 1282,mobilcom debitel,green LTE 9 GB,Telefónica,0,9000,21600,0,True,0,True,1,month
 1303,mobilcom debitel,green LTE 10 GB,Telekom,0,10000,21600,0,True,19,False,24,month
-1304,congstar,Allnet Flat S,Telekom,0,10000,25000,0,True,0,True,24,month
 1307,ALDI TALK,Paket M,Telefónica,0,6000,21600,0,True,0,True,28,day
 1307,Lidl Connect,Smart L,Vodafone,0,6000,25000,0,True,0,True,28,day
 1307,TELE2,LTE Allnet-Flat M,Vodafone,0,5000,21600,0,True,0,True,24,month
@@ -152,6 +151,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1999,OTELO,Allnet-Flat Max,Vodafone,0,30000,50000,0,True,0,True,24,month
 2019,FONIC,Smart 12 GB,Telefónica,0,12000,21600,0,True,0,True,28,day
 2042,WEtell,Mittelwelle,Vodafone,0,5000,21600,0,True,0,True,1,month
+2054,congstar,Allnet Flat M,Telekom,0,10000,25000,0,True,0,True,24,month
 2064,o2,my Prepaid L,o2,0,12500,225000,0,True,0,True,28,day
 2082,o2,Free S Boost,o2,0,6000,225000,0,True,0,True,24,month
 2088,ja! mobil,Prepaid Smart Max,Telekom,0,12000,25000,0,True,0,True,28,day
