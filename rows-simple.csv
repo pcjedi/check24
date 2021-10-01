@@ -107,8 +107,8 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 1470,mobilcom debitel,green LTE 20 GB,Telefónica,0,20000,225000,0,True,0,True,24,month
 1471,simplytel,LTE All 10 + 6 GB,Telefónica,0,16000,50000,0,True,0,True,24,month
 1479,congstar,Fair Flat,Telekom,0,5000,25000,0,True,0,True,1,month
-1482,Crash,Allnet Flat 17 GB LTE,Vodafone,0,17000,50000,0,True,0,True,24,month
 1482,Vodafone,CallYa Allnet Flat M,Vodafone,0,5000,500000,0,True,0,True,28,day
+1482,Crash,Allnet Flat 17 GB LTE,Vodafone,0,17000,50000,0,True,0,True,24,month
 1499,klarmobil,Allnet Flat 10 GB LTE,Vodafone,0,10000,21600,0,True,0,True,1,month
 1499,SIMon mobile,Flex 8 GB,Vodafone,0,8000,50000,0,True,0,True,1,month
 1503,Crash,Allnet Flat 10 GB LTE 50,Telekom,0,10000,50000,0,True,0,True,24,month
