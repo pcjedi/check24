@@ -45,7 +45,7 @@ tariff.internet.traffic.value,tariff.network.name,24m,pricelayer.prices.effectiv
 9000,Telefónica,True,971
 10000,Telefónica,False,1457
 10000,Telefónica,True,961
-10000,Telekom,False,2179
+10000,Telekom,False,2096
 10000,Telekom,True,1203
 10000,Vodafone,False,1499
 10000,Vodafone,True,891
