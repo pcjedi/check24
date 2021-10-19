@@ -12,7 +12,7 @@ pricelayer.prices.effective.amount,pricelayer.provider.name,tariff.names.default
 671,PremiumSIM,LTE All 2 GB + 3 GB,Telefónica,0,5000,50000,0,True,0,True,24,month
 671,gmx.de,All-Net LTE 3 GB,Telefónica,0,3000,25000,0,True,0,True,24,month
 671,handyvertrag.de,LTE All 3 GB + 3 GB,Telefónica,0,6000,50000,0,True,0,True,24,month
-691,blau,Allnet L + 2 GB,o2,0,5000,25000,0,True,0,True,24,month
+691,blau,Allnet L + 3 GB,o2,0,5000,25000,0,True,0,True,24,month
 703,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,24,month
 703,Crash,Allnet Flat 7 GB LTE,Vodafone,0,7000,21600,0,True,0,True,24,month
 707,eteleon,LTE National 3000,Telefónica,0,3000,21600,0,True,0,True,24,month
